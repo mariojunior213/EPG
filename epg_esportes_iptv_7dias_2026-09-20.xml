@@ -3253,5 +3253,8 @@
     <title lang="pt-BR">Expedicionários do Brasil</title>
     <desc lang="pt-BR">Expedicionários do Brasil. Programação esportiva — Esportes.</desc>
     <category lang="pt-BR">Esportes</category>
-  </programme>
+  <programme start="20260921190000 -0300" stop="20260921193000 -0300" channel="premiereclubes.br">
+    <title lang="pt-BR">VT - Vitória x Cruzeiro</title>
+    <desc lang="pt-BR">VT - Vitória x Cruzeiro. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
 </tv>
