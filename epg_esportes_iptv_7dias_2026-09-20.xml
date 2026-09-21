@@ -1,0 +1,3257 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="ChatGPT - XMLTV" generator-info-url="https://www.xmltv.org/" source-info-name="Grades públicas consultadas em 20/09/2026">
+  <channel id="sportv.br">
+    <display-name lang="pt-BR">SporTV</display-name>
+  </channel>
+  <channel id="sportv2.br">
+    <display-name lang="pt-BR">SporTV 2</display-name>
+  </channel>
+  <channel id="sportv3.br">
+    <display-name lang="pt-BR">SporTV 3</display-name>
+  </channel>
+  <channel id="espn.br">
+    <display-name lang="pt-BR">ESPN</display-name>
+  </channel>
+  <channel id="espn2.br">
+    <display-name lang="pt-BR">ESPN 2</display-name>
+  </channel>
+  <channel id="espn3.br">
+    <display-name lang="pt-BR">ESPN 3</display-name>
+  </channel>
+  <channel id="espn4.br">
+    <display-name lang="pt-BR">ESPN 4</display-name>
+  </channel>
+  <channel id="espn5.br">
+    <display-name lang="pt-BR">ESPN 5</display-name>
+  </channel>
+  <channel id="bandsports.br">
+    <display-name lang="pt-BR">BandSports</display-name>
+  </channel>
+  <channel id="tntsports.br">
+    <display-name lang="pt-BR">TNT Sports</display-name>
+  </channel>
+  <channel id="premiere.br">
+    <display-name lang="pt-BR">Premiere Clubes</display-name>
+  </channel>
+  <channel id="combate.br">
+    <display-name lang="pt-BR">Combate</display-name>
+  </channel>
+  <channel id="nossofutebol.br">
+    <display-name lang="pt-BR">Nosso Futebol</display-name>
+  </channel>
+  <programme start="20260920130000 -0300" stop="20260920153000 -0300" channel="sportv.br">
+    <title lang="pt-BR">SporTV News</title>
+    <desc lang="pt-BR">SporTV News. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260920153000 -0300" stop="20260920160000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Pré-Jogo: Corinthians x Fluminense</title>
+    <desc lang="pt-BR">Pré-Jogo: Corinthians x Fluminense. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260920160000 -0300" stop="20260920163000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Grêmio x Palmeiras</title>
+    <desc lang="pt-BR">VT - Grêmio x Palmeiras. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260920163000 -0300" stop="20260920170000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - São Paulo x Internacional</title>
+    <desc lang="pt-BR">VT - São Paulo x Internacional. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260920170000 -0300" stop="20260920173000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Atlético-MG x Chapecoense</title>
+    <desc lang="pt-BR">VT - Atlético-MG x Chapecoense. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260920173000 -0300" stop="20260920183000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Aquecimento SporTV</title>
+    <desc lang="pt-BR">Aquecimento SporTV. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260920183000 -0300" stop="20260920203000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Flamengo x Bragantino</title>
+    <desc lang="pt-BR">Flamengo x Bragantino. Programação esportiva — Futebol - Brasileirão.</desc>
+    <category lang="pt-BR">Futebol - Brasileirão</category>
+  </programme>
+  <programme start="20260920203000 -0300" stop="20260920223000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Fechamento SporTV</title>
+    <desc lang="pt-BR">Fechamento SporTV. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260920223000 -0300" stop="20260920230000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Flamengo x Bragantino</title>
+    <desc lang="pt-BR">VT - Flamengo x Bragantino. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260920230000 -0300" stop="20260920233000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Corinthians x Fluminense</title>
+    <desc lang="pt-BR">VT - Corinthians x Fluminense. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260920233000 -0300" stop="20260921003000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Vitória x Cruzeiro</title>
+    <desc lang="pt-BR">VT - Vitória x Cruzeiro. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260920060000 -0300" stop="20260920075500 -0300" channel="espn.br">
+    <title lang="pt-BR">Tottenham Hotspur x Aston Villa</title>
+    <desc lang="pt-BR">Tottenham Hotspur x Aston Villa. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260920075500 -0300" stop="20260920095500 -0300" channel="espn.br">
+    <title lang="pt-BR">Wolverhampton x West Bromwich Albion</title>
+    <desc lang="pt-BR">Wolverhampton x West Bromwich Albion. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260920095500 -0300" stop="20260920120000 -0300" channel="espn.br">
+    <title lang="pt-BR">Bournemouth x Liverpool</title>
+    <desc lang="pt-BR">Bournemouth x Liverpool. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260920120000 -0300" stop="20260920122000 -0300" channel="espn.br">
+    <title lang="pt-BR">SportsCenter Abre o Jogo</title>
+    <desc lang="pt-BR">SportsCenter Abre o Jogo. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260920122000 -0300" stop="20260920143000 -0300" channel="espn.br">
+    <title lang="pt-BR">Fulham x Manchester United</title>
+    <desc lang="pt-BR">Fulham x Manchester United. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260920143000 -0300" stop="20260920153000 -0300" channel="espn.br">
+    <title lang="pt-BR">Mundo F</title>
+    <desc lang="pt-BR">Mundo F. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260920153000 -0300" stop="20260920174500 -0300" channel="espn.br">
+    <title lang="pt-BR">Milan x Lecce</title>
+    <desc lang="pt-BR">Milan x Lecce. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260920174500 -0300" stop="20260920181500 -0300" channel="espn.br">
+    <title lang="pt-BR">SportsCenter Abre o Jogo</title>
+    <desc lang="pt-BR">SportsCenter Abre o Jogo. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260920181500 -0300" stop="20260920203000 -0300" channel="espn.br">
+    <title lang="pt-BR">Londrina x Fortaleza</title>
+    <desc lang="pt-BR">Londrina x Fortaleza. Programação esportiva — Futebol - Brasileirão Série B.</desc>
+    <category lang="pt-BR">Futebol - Brasileirão Série B</category>
+  </programme>
+  <programme start="20260920203000 -0300" stop="20260920220000 -0300" channel="espn.br">
+    <title lang="pt-BR">Linha de Passe: Mesa-Redonda</title>
+    <desc lang="pt-BR">Linha de Passe: Mesa-Redonda. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260920220000 -0300" stop="20260920230000 -0300" channel="espn.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260920230000 -0300" stop="20260921000000 -0300" channel="espn.br">
+    <title lang="pt-BR">Resenha: Fernandinho</title>
+    <desc lang="pt-BR">Resenha: Fernandinho. Programação esportiva — Entrevista esportiva.</desc>
+    <category lang="pt-BR">Entrevista esportiva</category>
+  </programme>
+  <programme start="20260920140000 -0300" stop="20260920170000 -0300" channel="espn2.br">
+    <title lang="pt-BR">NFL: Minnesota Vikings x Chicago Bears</title>
+    <desc lang="pt-BR">NFL: Minnesota Vikings x Chicago Bears. Programação esportiva — Futebol americano.</desc>
+    <category lang="pt-BR">Futebol americano</category>
+  </programme>
+  <programme start="20260920170000 -0300" stop="20260920172500 -0300" channel="espn2.br">
+    <title lang="pt-BR">SportsCenter Abre o Jogo: NFL</title>
+    <desc lang="pt-BR">SportsCenter Abre o Jogo: NFL. Programação esportiva — Futebol americano.</desc>
+    <category lang="pt-BR">Futebol americano</category>
+  </programme>
+  <programme start="20260920172500 -0300" stop="20260920203000 -0300" channel="espn2.br">
+    <title lang="pt-BR">NFL: Washington Commanders x Dallas Cowboys</title>
+    <desc lang="pt-BR">NFL: Washington Commanders x Dallas Cowboys. Programação esportiva — Futebol americano.</desc>
+    <category lang="pt-BR">Futebol americano</category>
+  </programme>
+  <programme start="20260920203000 -0300" stop="20260920210000 -0300" channel="espn2.br">
+    <title lang="pt-BR">UEFA Nations League Preview</title>
+    <desc lang="pt-BR">UEFA Nations League Preview. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260920210000 -0300" stop="20260920213000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Show da Rodada da Copa da Liga</title>
+    <desc lang="pt-BR">Show da Rodada da Copa da Liga. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260920213000 -0300" stop="20260920223000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Hipismo: Spruce Meadows</title>
+    <desc lang="pt-BR">Hipismo: Spruce Meadows. Programação esportiva — Hipismo.</desc>
+    <category lang="pt-BR">Hipismo</category>
+  </programme>
+  <programme start="20260920223000 -0300" stop="20260920233000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - Juventus x Atalanta</title>
+    <desc lang="pt-BR">VT - Juventus x Atalanta. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260920080000 -0300" stop="20260920103000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - LSU x Ole Miss</title>
+    <desc lang="pt-BR">VT - LSU x Ole Miss. Programação esportiva — Futebol americano universitário.</desc>
+    <category lang="pt-BR">Futebol americano universitário</category>
+  </programme>
+  <programme start="20260920103000 -0300" stop="20260920123000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - Ajax x Excelsior</title>
+    <desc lang="pt-BR">VT - Ajax x Excelsior. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260920123000 -0300" stop="20260920150000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - North Dakota State x Sacramento State</title>
+    <desc lang="pt-BR">VT - North Dakota State x Sacramento State. Programação esportiva — Futebol americano universitário.</desc>
+    <category lang="pt-BR">Futebol americano universitário</category>
+  </programme>
+  <programme start="20260920150000 -0300" stop="20260920170000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - Trabzonspor x Galatasaray</title>
+    <desc lang="pt-BR">VT - Trabzonspor x Galatasaray. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260920170000 -0300" stop="20260920190000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - Wolverhampton x West Bromwich</title>
+    <desc lang="pt-BR">VT - Wolverhampton x West Bromwich. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260920190000 -0300" stop="20260920193000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Especial Professores do Brasil: Judô</title>
+    <desc lang="pt-BR">Especial Professores do Brasil: Judô. Programação esportiva — Judô.</desc>
+    <category lang="pt-BR">Judô</category>
+  </programme>
+  <programme start="20260920193000 -0300" stop="20260920204500 -0300" channel="espn5.br">
+    <title lang="pt-BR">Mundial de Motovelocidade: GP da Áustria</title>
+    <desc lang="pt-BR">Mundial de Motovelocidade: GP da Áustria. Programação esportiva — Motovelocidade.</desc>
+    <category lang="pt-BR">Motovelocidade</category>
+  </programme>
+  <programme start="20260920204500 -0300" stop="20260920220000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Mundial de Motovelocidade: GP da Áustria</title>
+    <desc lang="pt-BR">Mundial de Motovelocidade: GP da Áustria. Programação esportiva — Motovelocidade.</desc>
+    <category lang="pt-BR">Motovelocidade</category>
+  </programme>
+  <programme start="20260920220000 -0300" stop="20260920233000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Mundial de Motovelocidade: GP da Áustria</title>
+    <desc lang="pt-BR">Mundial de Motovelocidade: GP da Áustria. Programação esportiva — Motovelocidade.</desc>
+    <category lang="pt-BR">Motovelocidade</category>
+  </programme>
+  <programme start="20260920233000 -0300" stop="20260921003000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - Chicago Stars x Washington Spirit</title>
+    <desc lang="pt-BR">VT - Chicago Stars x Washington Spirit. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260920130000 -0300" stop="20260920170000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">STU Pro Tour São Paulo — Finais</title>
+    <desc lang="pt-BR">STU Pro Tour São Paulo — Finais. Programação esportiva — Skate.</desc>
+    <category lang="pt-BR">Skate</category>
+  </programme>
+  <programme start="20260920170000 -0300" stop="20260920190000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Ultimate Drift — Etapa Velopark-RS</title>
+    <desc lang="pt-BR">Ultimate Drift — Etapa Velopark-RS. Programação esportiva — Automobilismo.</desc>
+    <category lang="pt-BR">Automobilismo</category>
+  </programme>
+  <programme start="20260920190000 -0300" stop="20260920214500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">PBR Brasil — Etapa Uberaba-MG: Final</title>
+    <desc lang="pt-BR">PBR Brasil — Etapa Uberaba-MG: Final. Programação esportiva — Rodeio.</desc>
+    <category lang="pt-BR">Rodeio</category>
+  </programme>
+  <programme start="20260920214500 -0300" stop="20260920231500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Encontro de Craques</title>
+    <desc lang="pt-BR">Encontro de Craques. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260920231500 -0300" stop="20260921001500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Sail GP — Etapa Suíça: Dia 2</title>
+    <desc lang="pt-BR">Sail GP — Etapa Suíça: Dia 2. Programação esportiva — Vela.</desc>
+    <category lang="pt-BR">Vela</category>
+  </programme>
+  <programme start="20260921000000 -0300" stop="20260921003000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Athletico-PR x Bahia</title>
+    <desc lang="pt-BR">VT - Athletico-PR x Bahia. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921003000 -0300" stop="20260921010000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Grêmio x Palmeiras</title>
+    <desc lang="pt-BR">VT - Grêmio x Palmeiras. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921010000 -0300" stop="20260921013000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - São Paulo x Internacional</title>
+    <desc lang="pt-BR">VT - São Paulo x Internacional. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921013000 -0300" stop="20260921020000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Remo x Santos</title>
+    <desc lang="pt-BR">VT - Remo x Santos. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921020000 -0300" stop="20260921023000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Atlético-MG x Chapecoense</title>
+    <desc lang="pt-BR">VT - Atlético-MG x Chapecoense. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921023000 -0300" stop="20260921033000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - São Paulo x Flamengo</title>
+    <desc lang="pt-BR">VT - São Paulo x Flamengo. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921033000 -0300" stop="20260921043000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - São Bernardo x Atlético-GO</title>
+    <desc lang="pt-BR">VT - São Bernardo x Atlético-GO. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921043000 -0300" stop="20260921050000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Grêmio x Palmeiras</title>
+    <desc lang="pt-BR">VT - Grêmio x Palmeiras. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921050000 -0300" stop="20260921053000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Flamengo x Bragantino</title>
+    <desc lang="pt-BR">VT - Flamengo x Bragantino. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921053000 -0300" stop="20260921060000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Corinthians x Fluminense</title>
+    <desc lang="pt-BR">VT - Corinthians x Fluminense. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921060000 -0300" stop="20260921063000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Vitória x Cruzeiro</title>
+    <desc lang="pt-BR">VT - Vitória x Cruzeiro. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921063000 -0300" stop="20260921083000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Fechamento SporTV</title>
+    <desc lang="pt-BR">Fechamento SporTV. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260921083000 -0300" stop="20260921100000 -0300" channel="sportv.br">
+    <title lang="pt-BR">SporTV News</title>
+    <desc lang="pt-BR">SporTV News. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260921100000 -0300" stop="20260921121500 -0300" channel="sportv.br">
+    <title lang="pt-BR">Redação SporTV</title>
+    <desc lang="pt-BR">Redação SporTV. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260921121500 -0300" stop="20260921125500 -0300" channel="sportv.br">
+    <title lang="pt-BR">Tá On</title>
+    <desc lang="pt-BR">Tá On. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260921125500 -0300" stop="20260921153000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Seleção SporTV</title>
+    <desc lang="pt-BR">Seleção SporTV. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260921153000 -0300" stop="20260921160000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Globo Esporte</title>
+    <desc lang="pt-BR">Globo Esporte. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260921160000 -0300" stop="20260921163000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Giro da Rodada - Brasileirão</title>
+    <desc lang="pt-BR">Giro da Rodada - Brasileirão. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921163000 -0300" stop="20260921170000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Flamengo x Bragantino</title>
+    <desc lang="pt-BR">VT - Flamengo x Bragantino. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921170000 -0300" stop="20260921173000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Corinthians x Fluminense</title>
+    <desc lang="pt-BR">VT - Corinthians x Fluminense. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921173000 -0300" stop="20260921180000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Vitória x Cruzeiro</title>
+    <desc lang="pt-BR">VT - Vitória x Cruzeiro. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921180000 -0300" stop="20260921183000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Grêmio x Palmeiras</title>
+    <desc lang="pt-BR">VT - Grêmio x Palmeiras. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921183000 -0300" stop="20260921203000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Tá na Área</title>
+    <desc lang="pt-BR">Tá na Área. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260921203000 -0300" stop="20260921213000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Aquecimento Delas</title>
+    <desc lang="pt-BR">Aquecimento Delas. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260921213000 -0300" stop="20260921233000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Corinthians x Bahia</title>
+    <desc lang="pt-BR">Corinthians x Bahia. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921233000 -0300" stop="20260922003000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Troca de Passes</title>
+    <desc lang="pt-BR">Troca de Passes. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260921003000 -0300" stop="20260921023000 -0300" channel="espn.br">
+    <title lang="pt-BR">VT - Newcastle x Hull City</title>
+    <desc lang="pt-BR">VT - Newcastle x Hull City. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921023000 -0300" stop="20260921043000 -0300" channel="espn.br">
+    <title lang="pt-BR">VT - Londrina x Fortaleza</title>
+    <desc lang="pt-BR">VT - Londrina x Fortaleza. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921043000 -0300" stop="20260921063000 -0300" channel="espn.br">
+    <title lang="pt-BR">VT - San Lorenzo x Boca Juniors</title>
+    <desc lang="pt-BR">VT - San Lorenzo x Boca Juniors. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921063000 -0300" stop="20260921080000 -0300" channel="espn.br">
+    <title lang="pt-BR">Linha de Passe: Mesa-Redonda</title>
+    <desc lang="pt-BR">Linha de Passe: Mesa-Redonda. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260921080000 -0300" stop="20260921090000 -0300" channel="espn.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260921090000 -0300" stop="20260921110000 -0300" channel="espn.br">
+    <title lang="pt-BR">VT - Fulham x Manchester United</title>
+    <desc lang="pt-BR">VT - Fulham x Manchester United. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921110000 -0300" stop="20260921130000 -0300" channel="espn.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260921130000 -0300" stop="20260921150000 -0300" channel="espn.br">
+    <title lang="pt-BR">F Show</title>
+    <desc lang="pt-BR">F Show. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260921150000 -0300" stop="20260921163000 -0300" channel="espn.br">
+    <title lang="pt-BR">Mundo F</title>
+    <desc lang="pt-BR">Mundo F. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260921163000 -0300" stop="20260921173000 -0300" channel="espn.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260921173000 -0300" stop="20260921192000 -0300" channel="espn.br">
+    <title lang="pt-BR">Equipe F</title>
+    <desc lang="pt-BR">Equipe F. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260921192000 -0300" stop="20260921213000 -0300" channel="espn.br">
+    <title lang="pt-BR">Criciúma x Operário-PR</title>
+    <desc lang="pt-BR">Criciúma x Operário-PR. Programação esportiva — Futebol - Série B.</desc>
+    <category lang="pt-BR">Futebol - Série B</category>
+  </programme>
+  <programme start="20260921213000 -0300" stop="20260921223000 -0300" channel="espn.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260921223000 -0300" stop="20260921233000 -0300" channel="espn.br">
+    <title lang="pt-BR">Linha de Passe: Mesa-Redonda</title>
+    <desc lang="pt-BR">Linha de Passe: Mesa-Redonda. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260921233000 -0300" stop="20260922003000 -0300" channel="espn.br">
+    <title lang="pt-BR">Resenha da Rodada</title>
+    <desc lang="pt-BR">Resenha da Rodada. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260921003000 -0300" stop="20260921013000 -0300" channel="espn2.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260921013000 -0300" stop="20260921033000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - Parma x Genoa</title>
+    <desc lang="pt-BR">VT - Parma x Genoa. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921033000 -0300" stop="20260921060000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - LSU x Ole Miss</title>
+    <desc lang="pt-BR">VT - LSU x Ole Miss. Programação esportiva — Futebol americano universitário.</desc>
+    <category lang="pt-BR">Futebol americano universitário</category>
+  </programme>
+  <programme start="20260921060000 -0300" stop="20260921070000 -0300" channel="espn2.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260921070000 -0300" stop="20260921080000 -0300" channel="espn2.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260921080000 -0300" stop="20260921090000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Mina de Passe</title>
+    <desc lang="pt-BR">Mina de Passe. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921090000 -0300" stop="20260921113000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - Washington Commanders x Dallas Cowboys</title>
+    <desc lang="pt-BR">VT - Washington Commanders x Dallas Cowboys. Programação esportiva — Futebol americano.</desc>
+    <category lang="pt-BR">Futebol americano</category>
+  </programme>
+  <programme start="20260921113000 -0300" stop="20260921133000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - Fulham x Manchester United</title>
+    <desc lang="pt-BR">VT - Fulham x Manchester United. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921133000 -0300" stop="20260921153000 -0300" channel="espn2.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260921153000 -0300" stop="20260921173000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - Ceará x Novorizontino</title>
+    <desc lang="pt-BR">VT - Ceará x Novorizontino. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921173000 -0300" stop="20260921190000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Mundial de Motovelocidade: GP da Áustria</title>
+    <desc lang="pt-BR">Mundial de Motovelocidade: GP da Áustria. Programação esportiva — Motovelocidade.</desc>
+    <category lang="pt-BR">Motovelocidade</category>
+  </programme>
+  <programme start="20260921190000 -0300" stop="20260921200000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - Minnesota Vikings x Chicago Bears</title>
+    <desc lang="pt-BR">VT - Minnesota Vikings x Chicago Bears. Programação esportiva — Futebol americano.</desc>
+    <category lang="pt-BR">Futebol americano</category>
+  </programme>
+  <programme start="20260921200000 -0300" stop="20260921210000 -0300" channel="espn2.br">
+    <title lang="pt-BR">ESPN League</title>
+    <desc lang="pt-BR">ESPN League. Programação esportiva — Basquete.</desc>
+    <category lang="pt-BR">Basquete</category>
+  </programme>
+  <programme start="20260921210000 -0300" stop="20260921211500 -0300" channel="espn2.br">
+    <title lang="pt-BR">NFL</title>
+    <desc lang="pt-BR">NFL. Programação esportiva — Futebol americano.</desc>
+    <category lang="pt-BR">Futebol americano</category>
+  </programme>
+  <programme start="20260921211500 -0300" stop="20260921221500 -0300" channel="espn2.br">
+    <title lang="pt-BR">NFL: New York Giants x Los Angeles Rams</title>
+    <desc lang="pt-BR">NFL: New York Giants x Los Angeles Rams. Programação esportiva — Futebol americano.</desc>
+    <category lang="pt-BR">Futebol americano</category>
+  </programme>
+  <programme start="20260921013000 -0300" stop="20260921040000 -0300" channel="espn5.br">
+    <title lang="pt-BR">ESPN Knockout: LFA 241</title>
+    <desc lang="pt-BR">ESPN Knockout: LFA 241. Programação esportiva — Lutas.</desc>
+    <category lang="pt-BR">Lutas</category>
+  </programme>
+  <programme start="20260921040000 -0300" stop="20260921063000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - MLB: Milwaukee Brewers x Baltimore Orioles</title>
+    <desc lang="pt-BR">VT - MLB: Milwaukee Brewers x Baltimore Orioles. Programação esportiva — Beisebol.</desc>
+    <category lang="pt-BR">Beisebol</category>
+  </programme>
+  <programme start="20260921063000 -0300" stop="20260921090000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - NFL: Minnesota Vikings x Chicago Bears</title>
+    <desc lang="pt-BR">VT - NFL: Minnesota Vikings x Chicago Bears. Programação esportiva — Futebol americano.</desc>
+    <category lang="pt-BR">Futebol americano</category>
+  </programme>
+  <programme start="20260921090000 -0300" stop="20260921110000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - Trabzonspor x Galatasaray</title>
+    <desc lang="pt-BR">VT - Trabzonspor x Galatasaray. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921110000 -0300" stop="20260921130000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - Ajax x Excelsior</title>
+    <desc lang="pt-BR">VT - Ajax x Excelsior. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921130000 -0300" stop="20260921141500 -0300" channel="espn5.br">
+    <title lang="pt-BR">Mundial de Motovelocidade: GP da Áustria</title>
+    <desc lang="pt-BR">Mundial de Motovelocidade: GP da Áustria. Programação esportiva — Motovelocidade.</desc>
+    <category lang="pt-BR">Motovelocidade</category>
+  </programme>
+  <programme start="20260921141500 -0300" stop="20260921153000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Mundial de Motovelocidade: GP da Áustria</title>
+    <desc lang="pt-BR">Mundial de Motovelocidade: GP da Áustria. Programação esportiva — Motovelocidade.</desc>
+    <category lang="pt-BR">Motovelocidade</category>
+  </programme>
+  <programme start="20260921153000 -0300" stop="20260921173000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Rugby: WXV Global Series Challenger</title>
+    <desc lang="pt-BR">Rugby: WXV Global Series Challenger. Programação esportiva — Rugby.</desc>
+    <category lang="pt-BR">Rugby</category>
+  </programme>
+  <programme start="20260921173000 -0300" stop="20260921180000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Especial Professores do Brasil: Judô</title>
+    <desc lang="pt-BR">Especial Professores do Brasil: Judô. Programação esportiva — Judô.</desc>
+    <category lang="pt-BR">Judô</category>
+  </programme>
+  <programme start="20260921180000 -0300" stop="20260921190000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Resenha: Fernandinho</title>
+    <desc lang="pt-BR">Resenha: Fernandinho. Programação esportiva — Entrevista esportiva.</desc>
+    <category lang="pt-BR">Entrevista esportiva</category>
+  </programme>
+  <programme start="20260921190000 -0300" stop="20260921200000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Hipismo: Spruce Meadows</title>
+    <desc lang="pt-BR">Hipismo: Spruce Meadows. Programação esportiva — Hipismo.</desc>
+    <category lang="pt-BR">Hipismo</category>
+  </programme>
+  <programme start="20260921200000 -0300" stop="20260921203000 -0300" channel="espn5.br">
+    <title lang="pt-BR">UEFA Nations League Preview</title>
+    <desc lang="pt-BR">UEFA Nations League Preview. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921203000 -0300" stop="20260921213000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Hipismo: Spruce Meadows</title>
+    <desc lang="pt-BR">Hipismo: Spruce Meadows. Programação esportiva — Hipismo.</desc>
+    <category lang="pt-BR">Hipismo</category>
+  </programme>
+  <programme start="20260921213000 -0300" stop="20260921233000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - ESPN Knockout: PBC</title>
+    <desc lang="pt-BR">VT - ESPN Knockout: PBC. Programação esportiva — Lutas.</desc>
+    <category lang="pt-BR">Lutas</category>
+  </programme>
+  <programme start="20260921233000 -0300" stop="20260922003000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Mundo F</title>
+    <desc lang="pt-BR">Mundo F. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260921003000 -0300" stop="20260921023000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Oléé</title>
+    <desc lang="pt-BR">Oléé. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260921023000 -0300" stop="20260921040000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Tempo Técnico</title>
+    <desc lang="pt-BR">Tempo Técnico. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260921040000 -0300" stop="20260921050000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Depois do Jogo</title>
+    <desc lang="pt-BR">Depois do Jogo. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260921050000 -0300" stop="20260921053000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">A Nova Geração</title>
+    <desc lang="pt-BR">A Nova Geração. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260921053000 -0300" stop="20260921060000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">The Golf Brasil</title>
+    <desc lang="pt-BR">The Golf Brasil. Programação esportiva — Golfe.</desc>
+    <category lang="pt-BR">Golfe</category>
+  </programme>
+  <programme start="20260921060000 -0300" stop="20260921061500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Africa Eco Racing</title>
+    <desc lang="pt-BR">Africa Eco Racing. Programação esportiva — Automobilismo.</desc>
+    <category lang="pt-BR">Automobilismo</category>
+  </programme>
+  <programme start="20260921061500 -0300" stop="20260921071500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Mundial de Motocross: China MX2</title>
+    <desc lang="pt-BR">Mundial de Motocross: China MX2. Programação esportiva — Motocross.</desc>
+    <category lang="pt-BR">Motocross</category>
+  </programme>
+  <programme start="20260921071500 -0300" stop="20260921073000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Oléé</title>
+    <desc lang="pt-BR">Oléé. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260921073000 -0300" stop="20260921083000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Depois do Jogo</title>
+    <desc lang="pt-BR">Depois do Jogo. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260921083000 -0300" stop="20260921090000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">BandSports News</title>
+    <desc lang="pt-BR">BandSports News. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260921090000 -0300" stop="20260921103000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Tempo Técnico</title>
+    <desc lang="pt-BR">Tempo Técnico. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260921103000 -0300" stop="20260921104500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Africa Eco Racing</title>
+    <desc lang="pt-BR">Africa Eco Racing. Programação esportiva — Automobilismo.</desc>
+    <category lang="pt-BR">Automobilismo</category>
+  </programme>
+  <programme start="20260921104500 -0300" stop="20260921111500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">The Outdoor Sport Show</title>
+    <desc lang="pt-BR">The Outdoor Sport Show. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260921111500 -0300" stop="20260921114500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Esporte Total</title>
+    <desc lang="pt-BR">Esporte Total. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260921114500 -0300" stop="20260921120000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Oléé</title>
+    <desc lang="pt-BR">Oléé. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260921120000 -0300" stop="20260921140000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Programação BandSports</title>
+    <desc lang="pt-BR">Programação BandSports. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260921140000 -0300" stop="20260921160000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Sala do Esporte</title>
+    <desc lang="pt-BR">Sala do Esporte. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260921160000 -0300" stop="20260921170000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Mundial de Motocross: China MXGP</title>
+    <desc lang="pt-BR">Mundial de Motocross: China MXGP. Programação esportiva — Motocross.</desc>
+    <category lang="pt-BR">Motocross</category>
+  </programme>
+  <programme start="20260921170000 -0300" stop="20260921180000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Donos da Bola</title>
+    <desc lang="pt-BR">Donos da Bola. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921180000 -0300" stop="20260921200000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Bola Rolando</title>
+    <desc lang="pt-BR">Bola Rolando. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260921200000 -0300" stop="20260921210000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Esporte Agora</title>
+    <desc lang="pt-BR">Esporte Agora. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260921210000 -0300" stop="20260921220000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Destaques do Sail GP: Etapa Espanha</title>
+    <desc lang="pt-BR">Destaques do Sail GP: Etapa Espanha. Programação esportiva — Vela.</desc>
+    <category lang="pt-BR">Vela</category>
+  </programme>
+  <programme start="20260921220000 -0300" stop="20260921233000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Papo de Paddock</title>
+    <desc lang="pt-BR">Papo de Paddock. Programação esportiva — Automobilismo.</desc>
+    <category lang="pt-BR">Automobilismo</category>
+  </programme>
+  <programme start="20260921233000 -0300" stop="20260922003000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Depois do Jogo</title>
+    <desc lang="pt-BR">Depois do Jogo. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260922010000 -0300" stop="20260922030000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Panela SporTV</title>
+    <desc lang="pt-BR">Panela SporTV. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260922030000 -0300" stop="20260922040000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Giro da Rodada - Brasileirão</title>
+    <desc lang="pt-BR">Giro da Rodada - Brasileirão. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260922040000 -0300" stop="20260922043000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Corinthians x Fluminense</title>
+    <desc lang="pt-BR">VT - Corinthians x Fluminense. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260922043000 -0300" stop="20260922050000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Vitória x Cruzeiro</title>
+    <desc lang="pt-BR">VT - Vitória x Cruzeiro. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260922050000 -0300" stop="20260922053000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Grêmio x Palmeiras</title>
+    <desc lang="pt-BR">VT - Grêmio x Palmeiras. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260922053000 -0300" stop="20260922060000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Flamengo x Bragantino</title>
+    <desc lang="pt-BR">VT - Flamengo x Bragantino. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260922060000 -0300" stop="20260922070000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Corinthians x Bahia</title>
+    <desc lang="pt-BR">VT - Corinthians x Bahia. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260922070000 -0300" stop="20260922083000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Troca de Passes</title>
+    <desc lang="pt-BR">Troca de Passes. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260922083000 -0300" stop="20260922100000 -0300" channel="sportv.br">
+    <title lang="pt-BR">SporTV News</title>
+    <desc lang="pt-BR">SporTV News. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260922100000 -0300" stop="20260922121500 -0300" channel="sportv.br">
+    <title lang="pt-BR">Redação SporTV</title>
+    <desc lang="pt-BR">Redação SporTV. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260922121500 -0300" stop="20260922125500 -0300" channel="sportv.br">
+    <title lang="pt-BR">Tá On</title>
+    <desc lang="pt-BR">Tá On. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260922125500 -0300" stop="20260922153000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Seleção SporTV</title>
+    <desc lang="pt-BR">Seleção SporTV. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260922153000 -0300" stop="20260922160000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Globo Esporte</title>
+    <desc lang="pt-BR">Globo Esporte. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260922160000 -0300" stop="20260922163000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Vitória x Cruzeiro</title>
+    <desc lang="pt-BR">VT - Vitória x Cruzeiro. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260922163000 -0300" stop="20260922170000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Athletico-PR x Bahia</title>
+    <desc lang="pt-BR">VT - Athletico-PR x Bahia. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260922170000 -0300" stop="20260922173000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Grêmio x Palmeiras</title>
+    <desc lang="pt-BR">VT - Grêmio x Palmeiras. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260922173000 -0300" stop="20260922180000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Flamengo x Bragantino</title>
+    <desc lang="pt-BR">VT - Flamengo x Bragantino. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260922180000 -0300" stop="20260922193000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Tá na Área</title>
+    <desc lang="pt-BR">Tá na Área. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260922193000 -0300" stop="20260922220000 -0300" channel="sportv.br">
+    <title lang="pt-BR">São Paulo x Palmeiras</title>
+    <desc lang="pt-BR">São Paulo x Palmeiras. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260922220000 -0300" stop="20260922233000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Troca de Passes</title>
+    <desc lang="pt-BR">Troca de Passes. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260922233000 -0300" stop="20260923003000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Giro da Rodada - Brasileiro Feminino</title>
+    <desc lang="pt-BR">Giro da Rodada - Brasileiro Feminino. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260922003000 -0300" stop="20260922013000 -0300" channel="espn.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260922013000 -0300" stop="20260922023000 -0300" channel="espn.br">
+    <title lang="pt-BR">Resenha da Rodada</title>
+    <desc lang="pt-BR">Resenha da Rodada. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260922023000 -0300" stop="20260922040000 -0300" channel="espn.br">
+    <title lang="pt-BR">Mundo F</title>
+    <desc lang="pt-BR">Mundo F. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260922040000 -0300" stop="20260922060000 -0300" channel="espn.br">
+    <title lang="pt-BR">VT - Goiás x Avaí</title>
+    <desc lang="pt-BR">VT - Goiás x Avaí. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260922060000 -0300" stop="20260922070000 -0300" channel="espn.br">
+    <title lang="pt-BR">Linha de Passe</title>
+    <desc lang="pt-BR">Linha de Passe. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260922070000 -0300" stop="20260922080000 -0300" channel="espn.br">
+    <title lang="pt-BR">Resenha da Rodada</title>
+    <desc lang="pt-BR">Resenha da Rodada. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260922080000 -0300" stop="20260922090000 -0300" channel="espn.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260922090000 -0300" stop="20260922110000 -0300" channel="espn.br">
+    <title lang="pt-BR">VT - Bournemouth x Liverpool</title>
+    <desc lang="pt-BR">VT - Bournemouth x Liverpool. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260922110000 -0300" stop="20260922130000 -0300" channel="espn.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260922130000 -0300" stop="20260922143000 -0300" channel="espn.br">
+    <title lang="pt-BR">F Show</title>
+    <desc lang="pt-BR">F Show. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260922143000 -0300" stop="20260922154500 -0300" channel="espn.br">
+    <title lang="pt-BR">Mundo F</title>
+    <desc lang="pt-BR">Mundo F. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260922154500 -0300" stop="20260922180000 -0300" channel="espn.br">
+    <title lang="pt-BR">Real Madrid x Paris Saint-Germain</title>
+    <desc lang="pt-BR">Real Madrid x Paris Saint-Germain. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260922180000 -0300" stop="20260922200000 -0300" channel="espn.br">
+    <title lang="pt-BR">Equipe F</title>
+    <desc lang="pt-BR">Equipe F. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260922200000 -0300" stop="20260922220000 -0300" channel="espn.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260922220000 -0300" stop="20260922230000 -0300" channel="espn.br">
+    <title lang="pt-BR">Ronaldo 50</title>
+    <desc lang="pt-BR">Ronaldo 50. Programação esportiva — Especial esportivo.</desc>
+    <category lang="pt-BR">Especial esportivo</category>
+  </programme>
+  <programme start="20260922230000 -0300" stop="20260923000000 -0300" channel="espn.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260922020000 -0300" stop="20260922030000 -0300" channel="espn2.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260922030000 -0300" stop="20260922033000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Show da Rodada da Copa da Liga</title>
+    <desc lang="pt-BR">Show da Rodada da Copa da Liga. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260922033000 -0300" stop="20260922060000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - ESPN KnockOut: PBC</title>
+    <desc lang="pt-BR">VT - ESPN KnockOut: PBC. Programação esportiva — Lutas.</desc>
+    <category lang="pt-BR">Lutas</category>
+  </programme>
+  <programme start="20260922060000 -0300" stop="20260922070000 -0300" channel="espn2.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260922070000 -0300" stop="20260922080000 -0300" channel="espn2.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260922080000 -0300" stop="20260922090000 -0300" channel="espn2.br">
+    <title lang="pt-BR">ESPN League</title>
+    <desc lang="pt-BR">ESPN League. Programação esportiva — Basquete.</desc>
+    <category lang="pt-BR">Basquete</category>
+  </programme>
+  <programme start="20260922090000 -0300" stop="20260922113000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - New York Giants x Los Angeles Rams</title>
+    <desc lang="pt-BR">VT - New York Giants x Los Angeles Rams. Programação esportiva — Futebol americano.</desc>
+    <category lang="pt-BR">Futebol americano</category>
+  </programme>
+  <programme start="20260922113000 -0300" stop="20260922133000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - Newcastle x Hull City</title>
+    <desc lang="pt-BR">VT - Newcastle x Hull City. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260922133000 -0300" stop="20260922153000 -0300" channel="espn2.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260922153000 -0300" stop="20260922173000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - Milan x Lecce</title>
+    <desc lang="pt-BR">VT - Milan x Lecce. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260922173000 -0300" stop="20260922183000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - Minnesota Vikings x Chicago Bears</title>
+    <desc lang="pt-BR">VT - Minnesota Vikings x Chicago Bears. Programação esportiva — Futebol americano.</desc>
+    <category lang="pt-BR">Futebol americano</category>
+  </programme>
+  <programme start="20260922183000 -0300" stop="20260922190000 -0300" channel="espn2.br">
+    <title lang="pt-BR">WTA Tour Magazine</title>
+    <desc lang="pt-BR">WTA Tour Magazine. Programação esportiva — Tênis.</desc>
+    <category lang="pt-BR">Tênis</category>
+  </programme>
+  <programme start="20260922190000 -0300" stop="20260922200000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Pelas Quadras</title>
+    <desc lang="pt-BR">Pelas Quadras. Programação esportiva — Tênis.</desc>
+    <category lang="pt-BR">Tênis</category>
+  </programme>
+  <programme start="20260922200000 -0300" stop="20260922210000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - Washington Commanders x Dallas Cowboys</title>
+    <desc lang="pt-BR">VT - Washington Commanders x Dallas Cowboys. Programação esportiva — Futebol americano.</desc>
+    <category lang="pt-BR">Futebol americano</category>
+  </programme>
+  <programme start="20260922210000 -0300" stop="20260922230000 -0300" channel="espn2.br">
+    <title lang="pt-BR">WNBA: Minnesota Lynx x Indiana Fever</title>
+    <desc lang="pt-BR">WNBA: Minnesota Lynx x Indiana Fever. Programação esportiva — Basquete.</desc>
+    <category lang="pt-BR">Basquete</category>
+  </programme>
+  <programme start="20260922230000 -0300" stop="20260923000000 -0300" channel="espn2.br">
+    <title lang="pt-BR">WNBA: Los Angeles Sparks x Las Vegas Aces</title>
+    <desc lang="pt-BR">WNBA: Los Angeles Sparks x Las Vegas Aces. Programação esportiva — Basquete.</desc>
+    <category lang="pt-BR">Basquete</category>
+  </programme>
+  <programme start="20260922010000 -0300" stop="20260922030000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - River Plate x Huracán</title>
+    <desc lang="pt-BR">VT - River Plate x Huracán. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260922030000 -0300" stop="20260922043000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Mundial de Motovelocidade: GP da Áustria</title>
+    <desc lang="pt-BR">Mundial de Motovelocidade: GP da Áustria. Programação esportiva — Motovelocidade.</desc>
+    <category lang="pt-BR">Motovelocidade</category>
+  </programme>
+  <programme start="20260922043000 -0300" stop="20260922053000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Yaras, as Guerreiras do Brasil</title>
+    <desc lang="pt-BR">Yaras, as Guerreiras do Brasil. Programação esportiva — Rugby.</desc>
+    <category lang="pt-BR">Rugby</category>
+  </programme>
+  <programme start="20260922053000 -0300" stop="20260922063000 -0300" channel="espn5.br">
+    <title lang="pt-BR">DTM: Destaques de Sachsenring</title>
+    <desc lang="pt-BR">DTM: Destaques de Sachsenring. Programação esportiva — Automobilismo.</desc>
+    <category lang="pt-BR">Automobilismo</category>
+  </programme>
+  <programme start="20260922063000 -0300" stop="20260922083000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - Chicago Stars x Washington Spirit</title>
+    <desc lang="pt-BR">VT - Chicago Stars x Washington Spirit. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260922083000 -0300" stop="20260922093000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Resenha: Fernandinho</title>
+    <desc lang="pt-BR">Resenha: Fernandinho. Programação esportiva — Entrevista esportiva.</desc>
+    <category lang="pt-BR">Entrevista esportiva</category>
+  </programme>
+  <programme start="20260922093000 -0300" stop="20260922113000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - Ceará x Novorizontino</title>
+    <desc lang="pt-BR">VT - Ceará x Novorizontino. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260922113000 -0300" stop="20260922133000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - Ajax x Excelsior</title>
+    <desc lang="pt-BR">VT - Ajax x Excelsior. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260922133000 -0300" stop="20260922143000 -0300" channel="espn5.br">
+    <title lang="pt-BR">ESPN League</title>
+    <desc lang="pt-BR">ESPN League. Programação esportiva — Basquete.</desc>
+    <category lang="pt-BR">Basquete</category>
+  </programme>
+  <programme start="20260922143000 -0300" stop="20260922150000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Destaques da Conmebol Libertadores</title>
+    <desc lang="pt-BR">Destaques da Conmebol Libertadores. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260922150000 -0300" stop="20260922153000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Destaques da Conmebol Sul-Americana</title>
+    <desc lang="pt-BR">Destaques da Conmebol Sul-Americana. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260922153000 -0300" stop="20260922180000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - Washington Commanders x Dallas Cowboys</title>
+    <desc lang="pt-BR">VT - Washington Commanders x Dallas Cowboys. Programação esportiva — Futebol americano.</desc>
+    <category lang="pt-BR">Futebol americano</category>
+  </programme>
+  <programme start="20260922180000 -0300" stop="20260922190000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Yaras, as Guerreiras do Brasil</title>
+    <desc lang="pt-BR">Yaras, as Guerreiras do Brasil. Programação esportiva — Rugby.</desc>
+    <category lang="pt-BR">Rugby</category>
+  </programme>
+  <programme start="20260922190000 -0300" stop="20260922210000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - Bayern de Munique x Manchester City</title>
+    <desc lang="pt-BR">VT - Bayern de Munique x Manchester City. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260922210000 -0300" stop="20260922220000 -0300" channel="espn5.br">
+    <title lang="pt-BR">ESPN League</title>
+    <desc lang="pt-BR">ESPN League. Programação esportiva — Basquete.</desc>
+    <category lang="pt-BR">Basquete</category>
+  </programme>
+  <programme start="20260922220000 -0300" stop="20260922230000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - Goiás x Avaí</title>
+    <desc lang="pt-BR">VT - Goiás x Avaí. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260922003000 -0300" stop="20260922004500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Oléé</title>
+    <desc lang="pt-BR">Oléé. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260922004500 -0300" stop="20260922023000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">VT - Dinamo Moscou x Orenburg</title>
+    <desc lang="pt-BR">VT - Dinamo Moscou x Orenburg. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260922023000 -0300" stop="20260922040000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Tempo Técnico</title>
+    <desc lang="pt-BR">Tempo Técnico. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260922040000 -0300" stop="20260922050000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Depois do Jogo</title>
+    <desc lang="pt-BR">Depois do Jogo. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260922050000 -0300" stop="20260922053000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">A Nova Geração</title>
+    <desc lang="pt-BR">A Nova Geração. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260922053000 -0300" stop="20260922060000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">The Golf Brasil</title>
+    <desc lang="pt-BR">The Golf Brasil. Programação esportiva — Golfe.</desc>
+    <category lang="pt-BR">Golfe</category>
+  </programme>
+  <programme start="20260922060000 -0300" stop="20260922061500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Africa Eco Racing</title>
+    <desc lang="pt-BR">Africa Eco Racing. Programação esportiva — Automobilismo.</desc>
+    <category lang="pt-BR">Automobilismo</category>
+  </programme>
+  <programme start="20260922061500 -0300" stop="20260922071500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Mundial de Motocross: China MX2</title>
+    <desc lang="pt-BR">Mundial de Motocross: China MX2. Programação esportiva — Motocross.</desc>
+    <category lang="pt-BR">Motocross</category>
+  </programme>
+  <programme start="20260922071500 -0300" stop="20260922073000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Oléé</title>
+    <desc lang="pt-BR">Oléé. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260922073000 -0300" stop="20260922083000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Depois do Jogo</title>
+    <desc lang="pt-BR">Depois do Jogo. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260922083000 -0300" stop="20260922090000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">BandSports News</title>
+    <desc lang="pt-BR">BandSports News. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260922090000 -0300" stop="20260922103000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Tempo Técnico</title>
+    <desc lang="pt-BR">Tempo Técnico. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260922103000 -0300" stop="20260922104500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Africa Eco Racing</title>
+    <desc lang="pt-BR">Africa Eco Racing. Programação esportiva — Automobilismo.</desc>
+    <category lang="pt-BR">Automobilismo</category>
+  </programme>
+  <programme start="20260922104500 -0300" stop="20260922111500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">The Outdoor Sport Show</title>
+    <desc lang="pt-BR">The Outdoor Sport Show. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260922111500 -0300" stop="20260922114500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Esporte Total</title>
+    <desc lang="pt-BR">Esporte Total. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260922114500 -0300" stop="20260922120000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Oléé</title>
+    <desc lang="pt-BR">Oléé. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260922120000 -0300" stop="20260922140000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Programação BandSports</title>
+    <desc lang="pt-BR">Programação BandSports. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260922140000 -0300" stop="20260922160000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Sala do Esporte</title>
+    <desc lang="pt-BR">Sala do Esporte. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260922160000 -0300" stop="20260922170000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Mundial de Motocross: China MXGP</title>
+    <desc lang="pt-BR">Mundial de Motocross: China MXGP. Programação esportiva — Motocross.</desc>
+    <category lang="pt-BR">Motocross</category>
+  </programme>
+  <programme start="20260922170000 -0300" stop="20260922180000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Donos da Bola</title>
+    <desc lang="pt-BR">Donos da Bola. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260922180000 -0300" stop="20260922200000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Bola Rolando</title>
+    <desc lang="pt-BR">Bola Rolando. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260922200000 -0300" stop="20260922210000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Esporte Agora</title>
+    <desc lang="pt-BR">Esporte Agora. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260922210000 -0300" stop="20260922220000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Destaques do Sail GP: Etapa Espanha</title>
+    <desc lang="pt-BR">Destaques do Sail GP: Etapa Espanha. Programação esportiva — Vela.</desc>
+    <category lang="pt-BR">Vela</category>
+  </programme>
+  <programme start="20260922220000 -0300" stop="20260922230000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Papo de Paddock</title>
+    <desc lang="pt-BR">Papo de Paddock. Programação esportiva — Automobilismo.</desc>
+    <category lang="pt-BR">Automobilismo</category>
+  </programme>
+  <programme start="20260922230000 -0300" stop="20260922233000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">A Nova Geração</title>
+    <desc lang="pt-BR">A Nova Geração. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260922233000 -0300" stop="20260923003000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Depois do Jogo</title>
+    <desc lang="pt-BR">Depois do Jogo. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260923003000 -0300" stop="20260923013000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - São Paulo x Palmeiras</title>
+    <desc lang="pt-BR">VT - São Paulo x Palmeiras. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260923013000 -0300" stop="20260923020000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Flamengo x Bragantino</title>
+    <desc lang="pt-BR">VT - Flamengo x Bragantino. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260923020000 -0300" stop="20260923030000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Corinthians x Bahia</title>
+    <desc lang="pt-BR">VT - Corinthians x Bahia. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260923030000 -0300" stop="20260923033000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Corinthians x Fluminense</title>
+    <desc lang="pt-BR">VT - Corinthians x Fluminense. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260923033000 -0300" stop="20260923040000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Vitória x Cruzeiro</title>
+    <desc lang="pt-BR">VT - Vitória x Cruzeiro. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260923040000 -0300" stop="20260923043000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Grêmio x Palmeiras</title>
+    <desc lang="pt-BR">VT - Grêmio x Palmeiras. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260923043000 -0300" stop="20260923050000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Athletico-PR x Bahia</title>
+    <desc lang="pt-BR">VT - Athletico-PR x Bahia. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260923050000 -0300" stop="20260923060000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - São Paulo x Flamengo</title>
+    <desc lang="pt-BR">VT - São Paulo x Flamengo. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260923060000 -0300" stop="20260923070000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - São Paulo x Palmeiras</title>
+    <desc lang="pt-BR">VT - São Paulo x Palmeiras. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260923070000 -0300" stop="20260923083000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Troca de Passes</title>
+    <desc lang="pt-BR">Troca de Passes. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260923083000 -0300" stop="20260923100000 -0300" channel="sportv.br">
+    <title lang="pt-BR">SporTV News</title>
+    <desc lang="pt-BR">SporTV News. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260923100000 -0300" stop="20260923121500 -0300" channel="sportv.br">
+    <title lang="pt-BR">Redação SporTV</title>
+    <desc lang="pt-BR">Redação SporTV. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260923121500 -0300" stop="20260923125500 -0300" channel="sportv.br">
+    <title lang="pt-BR">Tá On</title>
+    <desc lang="pt-BR">Tá On. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260923125500 -0300" stop="20260923153000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Seleção SporTV</title>
+    <desc lang="pt-BR">Seleção SporTV. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260923153000 -0300" stop="20260923160000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Globo Esporte</title>
+    <desc lang="pt-BR">Globo Esporte. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260923160000 -0300" stop="20260923170000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - São Paulo x Palmeiras</title>
+    <desc lang="pt-BR">VT - São Paulo x Palmeiras. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260923170000 -0300" stop="20260923173000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Corinthians x Fluminense</title>
+    <desc lang="pt-BR">VT - Corinthians x Fluminense. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260923173000 -0300" stop="20260923200000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Tá na Área</title>
+    <desc lang="pt-BR">Tá na Área. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260923200000 -0300" stop="20260923220000 -0300" channel="sportv.br">
+    <title lang="pt-BR">A Reinvenção do Palmeiras</title>
+    <desc lang="pt-BR">A Reinvenção do Palmeiras. Programação esportiva — Documentário esportivo.</desc>
+    <category lang="pt-BR">Documentário esportivo</category>
+  </programme>
+  <programme start="20260923220000 -0300" stop="20260923233000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Troca de Passes</title>
+    <desc lang="pt-BR">Troca de Passes. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260923233000 -0300" stop="20260924003000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Flamengo x Bragantino</title>
+    <desc lang="pt-BR">VT - Flamengo x Bragantino. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260923000000 -0300" stop="20260923010000 -0300" channel="espn.br">
+    <title lang="pt-BR">Bola da Vez</title>
+    <desc lang="pt-BR">Bola da Vez. Programação esportiva — Entrevista esportiva.</desc>
+    <category lang="pt-BR">Entrevista esportiva</category>
+  </programme>
+  <programme start="20260923010000 -0300" stop="20260923030000 -0300" channel="espn.br">
+    <title lang="pt-BR">VT - Brighton &amp; Hove Albion x Arsenal</title>
+    <desc lang="pt-BR">VT - Brighton &amp; Hove Albion x Arsenal. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260923030000 -0300" stop="20260923040000 -0300" channel="espn.br">
+    <title lang="pt-BR">Resenha: Fernandinho</title>
+    <desc lang="pt-BR">Resenha: Fernandinho. Programação esportiva — Entrevista esportiva.</desc>
+    <category lang="pt-BR">Entrevista esportiva</category>
+  </programme>
+  <programme start="20260923040000 -0300" stop="20260923060000 -0300" channel="espn.br">
+    <title lang="pt-BR">VT - Brentford x Chelsea</title>
+    <desc lang="pt-BR">VT - Brentford x Chelsea. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260923060000 -0300" stop="20260923080000 -0300" channel="espn.br">
+    <title lang="pt-BR">VT - Millwall x West Ham</title>
+    <desc lang="pt-BR">VT - Millwall x West Ham. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260923080000 -0300" stop="20260923090000 -0300" channel="espn.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260923090000 -0300" stop="20260923110000 -0300" channel="espn.br">
+    <title lang="pt-BR">VT - Real Madrid x Paris Saint-Germain</title>
+    <desc lang="pt-BR">VT - Real Madrid x Paris Saint-Germain. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260923110000 -0300" stop="20260923130000 -0300" channel="espn.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260923130000 -0300" stop="20260923143000 -0300" channel="espn.br">
+    <title lang="pt-BR">F Show</title>
+    <desc lang="pt-BR">F Show. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260923143000 -0300" stop="20260923154500 -0300" channel="espn.br">
+    <title lang="pt-BR">Mundo F</title>
+    <desc lang="pt-BR">Mundo F. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260923154500 -0300" stop="20260923180000 -0300" channel="espn.br">
+    <title lang="pt-BR">Barcelona x Paris FC</title>
+    <desc lang="pt-BR">Barcelona x Paris FC. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260923180000 -0300" stop="20260923200000 -0300" channel="espn.br">
+    <title lang="pt-BR">Equipe F</title>
+    <desc lang="pt-BR">Equipe F. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260923200000 -0300" stop="20260923220000 -0300" channel="espn.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260923220000 -0300" stop="20260923223000 -0300" channel="espn.br">
+    <title lang="pt-BR">Destaques da Conmebol Libertadores</title>
+    <desc lang="pt-BR">Destaques da Conmebol Libertadores. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260923223000 -0300" stop="20260923230000 -0300" channel="espn.br">
+    <title lang="pt-BR">Show da Rodada do Italiano</title>
+    <desc lang="pt-BR">Show da Rodada do Italiano. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260923230000 -0300" stop="20260924000000 -0300" channel="espn.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260923010000 -0300" stop="20260923020000 -0300" channel="espn2.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260923020000 -0300" stop="20260923040000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - Bayern de Munique x Manchester City</title>
+    <desc lang="pt-BR">VT - Bayern de Munique x Manchester City. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260923040000 -0300" stop="20260923060000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - WNBA: Minnesota Lynx x Indiana Fever</title>
+    <desc lang="pt-BR">VT - WNBA: Minnesota Lynx x Indiana Fever. Programação esportiva — Basquete.</desc>
+    <category lang="pt-BR">Basquete</category>
+  </programme>
+  <programme start="20260923060000 -0300" stop="20260923070000 -0300" channel="espn2.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260923070000 -0300" stop="20260923080000 -0300" channel="espn2.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260923080000 -0300" stop="20260923090000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Pelas Quadras</title>
+    <desc lang="pt-BR">Pelas Quadras. Programação esportiva — Tênis.</desc>
+    <category lang="pt-BR">Tênis</category>
+  </programme>
+  <programme start="20260923090000 -0300" stop="20260923113000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - NFL: Minnesota Vikings x Chicago Bears</title>
+    <desc lang="pt-BR">VT - NFL: Minnesota Vikings x Chicago Bears. Programação esportiva — Futebol americano.</desc>
+    <category lang="pt-BR">Futebol americano</category>
+  </programme>
+  <programme start="20260923113000 -0300" stop="20260923133000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - Real Madrid x Paris Saint-Germain</title>
+    <desc lang="pt-BR">VT - Real Madrid x Paris Saint-Germain. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260923133000 -0300" stop="20260923153000 -0300" channel="espn2.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260923153000 -0300" stop="20260923173000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - Roma x Internazionale</title>
+    <desc lang="pt-BR">VT - Roma x Internazionale. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260923173000 -0300" stop="20260923183000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - NFL: Washington Commanders x Dallas Cowboys</title>
+    <desc lang="pt-BR">VT - NFL: Washington Commanders x Dallas Cowboys. Programação esportiva — Futebol americano.</desc>
+    <category lang="pt-BR">Futebol americano</category>
+  </programme>
+  <programme start="20260923183000 -0300" stop="20260923184500 -0300" channel="espn2.br">
+    <title lang="pt-BR">Momento ESPN</title>
+    <desc lang="pt-BR">Momento ESPN. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260923184500 -0300" stop="20260923194500 -0300" channel="espn2.br">
+    <title lang="pt-BR">Especial: Ronaldo 50</title>
+    <desc lang="pt-BR">Especial: Ronaldo 50. Programação esportiva — Especial esportivo.</desc>
+    <category lang="pt-BR">Especial esportivo</category>
+  </programme>
+  <programme start="20260923194500 -0300" stop="20260923200000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Momento CBTênis</title>
+    <desc lang="pt-BR">Momento CBTênis. Programação esportiva — Tênis.</desc>
+    <category lang="pt-BR">Tênis</category>
+  </programme>
+  <programme start="20260923200000 -0300" stop="20260923230000 -0300" channel="espn2.br">
+    <title lang="pt-BR">MLB: Cleveland Guardians x Boston Red Sox</title>
+    <desc lang="pt-BR">MLB: Cleveland Guardians x Boston Red Sox. Programação esportiva — Beisebol.</desc>
+    <category lang="pt-BR">Beisebol</category>
+  </programme>
+  <programme start="20260923230000 -0300" stop="20260924000000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Hipismo: Spruce Meadows</title>
+    <desc lang="pt-BR">Hipismo: Spruce Meadows. Programação esportiva — Hipismo.</desc>
+    <category lang="pt-BR">Hipismo</category>
+  </programme>
+  <programme start="20260923000000 -0300" stop="20260923020000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - Criciúma x Operário-PR</title>
+    <desc lang="pt-BR">VT - Criciúma x Operário-PR. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260923020000 -0300" stop="20260923043000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - NFL: New York Giants x Los Angeles Rams</title>
+    <desc lang="pt-BR">VT - NFL: New York Giants x Los Angeles Rams. Programação esportiva — Futebol americano.</desc>
+    <category lang="pt-BR">Futebol americano</category>
+  </programme>
+  <programme start="20260923043000 -0300" stop="20260923070000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - MLB: San Diego Padres x Los Angeles Dodgers</title>
+    <desc lang="pt-BR">VT - MLB: San Diego Padres x Los Angeles Dodgers. Programação esportiva — Beisebol.</desc>
+    <category lang="pt-BR">Beisebol</category>
+  </programme>
+  <programme start="20260923070000 -0300" stop="20260923080000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - Nascar Cup Series: GP de Bristol</title>
+    <desc lang="pt-BR">VT - Nascar Cup Series: GP de Bristol. Programação esportiva — Automobilismo.</desc>
+    <category lang="pt-BR">Automobilismo</category>
+  </programme>
+  <programme start="20260923080000 -0300" stop="20260923103000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - Nascar Cup Series: GP de Bristol</title>
+    <desc lang="pt-BR">VT - Nascar Cup Series: GP de Bristol. Programação esportiva — Automobilismo.</desc>
+    <category lang="pt-BR">Automobilismo</category>
+  </programme>
+  <programme start="20260923103000 -0300" stop="20260923113000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - NFL: Minnesota Vikings x Chicago Bears</title>
+    <desc lang="pt-BR">VT - NFL: Minnesota Vikings x Chicago Bears. Programação esportiva — Futebol americano.</desc>
+    <category lang="pt-BR">Futebol americano</category>
+  </programme>
+  <programme start="20260923113000 -0300" stop="20260923123000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - NFL: Washington Commanders x Dallas Cowboys</title>
+    <desc lang="pt-BR">VT - NFL: Washington Commanders x Dallas Cowboys. Programação esportiva — Futebol americano.</desc>
+    <category lang="pt-BR">Futebol americano</category>
+  </programme>
+  <programme start="20260923123000 -0300" stop="20260923133000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Hipismo: Spruce Meadows</title>
+    <desc lang="pt-BR">Hipismo: Spruce Meadows. Programação esportiva — Hipismo.</desc>
+    <category lang="pt-BR">Hipismo</category>
+  </programme>
+  <programme start="20260923133000 -0300" stop="20260923153000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - WNBA: Minnesota Lynx x Indiana Fever</title>
+    <desc lang="pt-BR">VT - WNBA: Minnesota Lynx x Indiana Fever. Programação esportiva — Basquete.</desc>
+    <category lang="pt-BR">Basquete</category>
+  </programme>
+  <programme start="20260923153000 -0300" stop="20260923173000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - Millwall x West Ham</title>
+    <desc lang="pt-BR">VT - Millwall x West Ham. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260923173000 -0300" stop="20260923190000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Mundial de Motovelocidade: GP da Áustria</title>
+    <desc lang="pt-BR">Mundial de Motovelocidade: GP da Áustria. Programação esportiva — Motovelocidade.</desc>
+    <category lang="pt-BR">Motovelocidade</category>
+  </programme>
+  <programme start="20260923190000 -0300" stop="20260923200000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - Nascar Brasil: Etapa de Curvelo</title>
+    <desc lang="pt-BR">VT - Nascar Brasil: Etapa de Curvelo. Programação esportiva — Automobilismo.</desc>
+    <category lang="pt-BR">Automobilismo</category>
+  </programme>
+  <programme start="20260923200000 -0300" stop="20260923223000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - ESPN Knockout</title>
+    <desc lang="pt-BR">VT - ESPN Knockout. Programação esportiva — Lutas.</desc>
+    <category lang="pt-BR">Lutas</category>
+  </programme>
+  <programme start="20260923223000 -0300" stop="20260923233000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Especial: Ronaldo 50</title>
+    <desc lang="pt-BR">Especial: Ronaldo 50. Programação esportiva — Especial esportivo.</desc>
+    <category lang="pt-BR">Especial esportivo</category>
+  </programme>
+  <programme start="20260923233000 -0300" stop="20260924003000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Show da Rodada da Premier League</title>
+    <desc lang="pt-BR">Show da Rodada da Premier League. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260923003000 -0300" stop="20260923004500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Oléé</title>
+    <desc lang="pt-BR">Oléé. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260923004500 -0300" stop="20260923023000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Programação BandSports</title>
+    <desc lang="pt-BR">Programação BandSports. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260923023000 -0300" stop="20260923033000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Depois do Jogo</title>
+    <desc lang="pt-BR">Depois do Jogo. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260923033000 -0300" stop="20260923043000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Papo de Paddock</title>
+    <desc lang="pt-BR">Papo de Paddock. Programação esportiva — Automobilismo.</desc>
+    <category lang="pt-BR">Automobilismo</category>
+  </programme>
+  <programme start="20260923043000 -0300" stop="20260923053000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Destaques do Sail GP: Etapa Espanha</title>
+    <desc lang="pt-BR">Destaques do Sail GP: Etapa Espanha. Programação esportiva — Vela.</desc>
+    <category lang="pt-BR">Vela</category>
+  </programme>
+  <programme start="20260923053000 -0300" stop="20260923060000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">The Outdoor Sport Show</title>
+    <desc lang="pt-BR">The Outdoor Sport Show. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260923060000 -0300" stop="20260923061500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Africa Eco Racing</title>
+    <desc lang="pt-BR">Africa Eco Racing. Programação esportiva — Automobilismo.</desc>
+    <category lang="pt-BR">Automobilismo</category>
+  </programme>
+  <programme start="20260923061500 -0300" stop="20260923071500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Mundial de Motocross: China MXGP</title>
+    <desc lang="pt-BR">Mundial de Motocross: China MXGP. Programação esportiva — Motocross.</desc>
+    <category lang="pt-BR">Motocross</category>
+  </programme>
+  <programme start="20260923071500 -0300" stop="20260923073000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Oléé</title>
+    <desc lang="pt-BR">Oléé. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260923073000 -0300" stop="20260923083000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Depois do Jogo</title>
+    <desc lang="pt-BR">Depois do Jogo. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260923083000 -0300" stop="20260923090000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">BandSports News</title>
+    <desc lang="pt-BR">BandSports News. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260923090000 -0300" stop="20260923100000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Na Reta dos Boxes</title>
+    <desc lang="pt-BR">Na Reta dos Boxes. Programação esportiva — Automobilismo.</desc>
+    <category lang="pt-BR">Automobilismo</category>
+  </programme>
+  <programme start="20260923100000 -0300" stop="20260923103000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">A Nova Geração</title>
+    <desc lang="pt-BR">A Nova Geração. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260923103000 -0300" stop="20260923110000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Esporte Total</title>
+    <desc lang="pt-BR">Esporte Total. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260923110000 -0300" stop="20260923114500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Mundo PBR</title>
+    <desc lang="pt-BR">Mundo PBR. Programação esportiva — Rodeio.</desc>
+    <category lang="pt-BR">Rodeio</category>
+  </programme>
+  <programme start="20260923114500 -0300" stop="20260923120000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Oléé</title>
+    <desc lang="pt-BR">Oléé. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260923120000 -0300" stop="20260923140000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Programação BandSports</title>
+    <desc lang="pt-BR">Programação BandSports. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260923140000 -0300" stop="20260923144500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Sala do Esporte</title>
+    <desc lang="pt-BR">Sala do Esporte. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260923144500 -0300" stop="20260923164500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Programação BandSports</title>
+    <desc lang="pt-BR">Programação BandSports. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260923164500 -0300" stop="20260923170000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Vila BandSports</title>
+    <desc lang="pt-BR">Vila BandSports. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260923170000 -0300" stop="20260923180000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Donos da Bola</title>
+    <desc lang="pt-BR">Donos da Bola. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260923180000 -0300" stop="20260923200000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Bola Rolando</title>
+    <desc lang="pt-BR">Bola Rolando. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260923200000 -0300" stop="20260923210000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Esporte Agora</title>
+    <desc lang="pt-BR">Esporte Agora. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260923210000 -0300" stop="20260923223000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Supermotor</title>
+    <desc lang="pt-BR">Supermotor. Programação esportiva — Automobilismo.</desc>
+    <category lang="pt-BR">Automobilismo</category>
+  </programme>
+  <programme start="20260923223000 -0300" stop="20260923231500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Expedicionários do Brasil</title>
+    <desc lang="pt-BR">Expedicionários do Brasil. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260923231500 -0300" stop="20260923233000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Momento Brasil Olímpico</title>
+    <desc lang="pt-BR">Momento Brasil Olímpico. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260923233000 -0300" stop="20260924003000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Depois do Jogo</title>
+    <desc lang="pt-BR">Depois do Jogo. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260924000000 -0300" stop="20260924003000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Vitória x Cruzeiro</title>
+    <desc lang="pt-BR">VT - Vitória x Cruzeiro. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924003000 -0300" stop="20260924010000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Grêmio x Palmeiras</title>
+    <desc lang="pt-BR">VT - Grêmio x Palmeiras. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924010000 -0300" stop="20260924020000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Copa do Mundo Feminina Sub-20 da FIFA 2026</title>
+    <desc lang="pt-BR">Copa do Mundo Feminina Sub-20 da FIFA 2026. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260924020000 -0300" stop="20260924030000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - São Paulo x Flamengo</title>
+    <desc lang="pt-BR">VT - São Paulo x Flamengo. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924030000 -0300" stop="20260924033000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - São Paulo x Internacional</title>
+    <desc lang="pt-BR">VT - São Paulo x Internacional. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924033000 -0300" stop="20260924040000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Athletico-PR x Bahia</title>
+    <desc lang="pt-BR">VT - Athletico-PR x Bahia. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924040000 -0300" stop="20260924043000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Corinthians x Fluminense</title>
+    <desc lang="pt-BR">VT - Corinthians x Fluminense. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924043000 -0300" stop="20260924050000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Flamengo x Bragantino</title>
+    <desc lang="pt-BR">VT - Flamengo x Bragantino. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924050000 -0300" stop="20260924053000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Remo x Santos</title>
+    <desc lang="pt-BR">VT - Remo x Santos. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924053000 -0300" stop="20260924060000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Grêmio x Palmeiras</title>
+    <desc lang="pt-BR">VT - Grêmio x Palmeiras. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924060000 -0300" stop="20260924063000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Vitória x Cruzeiro</title>
+    <desc lang="pt-BR">VT - Vitória x Cruzeiro. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924063000 -0300" stop="20260924070000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - São Paulo x Internacional</title>
+    <desc lang="pt-BR">VT - São Paulo x Internacional. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924070000 -0300" stop="20260924083000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Troca de Passes</title>
+    <desc lang="pt-BR">Troca de Passes. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260924083000 -0300" stop="20260924100000 -0300" channel="sportv.br">
+    <title lang="pt-BR">SporTV News</title>
+    <desc lang="pt-BR">SporTV News. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260924100000 -0300" stop="20260924121500 -0300" channel="sportv.br">
+    <title lang="pt-BR">Redação SporTV</title>
+    <desc lang="pt-BR">Redação SporTV. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260924121500 -0300" stop="20260924125500 -0300" channel="sportv.br">
+    <title lang="pt-BR">Tá On</title>
+    <desc lang="pt-BR">Tá On. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260924125500 -0300" stop="20260924150000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Seleção SporTV</title>
+    <desc lang="pt-BR">Seleção SporTV. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260924150000 -0300" stop="20260924174500 -0300" channel="sportv.br">
+    <title lang="pt-BR">Portugal x País de Gales</title>
+    <desc lang="pt-BR">Portugal x País de Gales. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924174500 -0300" stop="20260924190000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Tá na Área</title>
+    <desc lang="pt-BR">Tá na Área. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260924190000 -0300" stop="20260924193000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Corinthians x Fluminense</title>
+    <desc lang="pt-BR">VT - Corinthians x Fluminense. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924193000 -0300" stop="20260924200000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Flamengo x Bragantino</title>
+    <desc lang="pt-BR">VT - Flamengo x Bragantino. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924200000 -0300" stop="20260924210000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Portugal x País de Gales</title>
+    <desc lang="pt-BR">VT - Portugal x País de Gales. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924210000 -0300" stop="20260924220000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Áustria x Israel</title>
+    <desc lang="pt-BR">VT - Áustria x Israel. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924220000 -0300" stop="20260924233000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Troca de Passes</title>
+    <desc lang="pt-BR">Troca de Passes. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260924233000 -0300" stop="20260925003000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Portugal x País de Gales</title>
+    <desc lang="pt-BR">VT - Portugal x País de Gales. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924010000 -0300" stop="20260924020000 -0300" channel="espn.br">
+    <title lang="pt-BR">Especial: Ronaldo 50</title>
+    <desc lang="pt-BR">Especial: Ronaldo 50. Programação esportiva — Especial esportivo.</desc>
+    <category lang="pt-BR">Especial esportivo</category>
+  </programme>
+  <programme start="20260924010000 -0300" stop="20260924030000 -0300" channel="espn.br">
+    <title lang="pt-BR">VT - Roma x Internazionale</title>
+    <desc lang="pt-BR">VT - Roma x Internazionale. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924030000 -0300" stop="20260924033000 -0300" channel="espn.br">
+    <title lang="pt-BR">Destaques da Conmebol Sul-Americana</title>
+    <desc lang="pt-BR">Destaques da Conmebol Sul-Americana. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924033000 -0300" stop="20260924053000 -0300" channel="espn.br">
+    <title lang="pt-BR">VT - Sport x Juventude</title>
+    <desc lang="pt-BR">VT - Sport x Juventude. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924053000 -0300" stop="20260924073000 -0300" channel="espn.br">
+    <title lang="pt-BR">VT - Barcelona x Paris FC</title>
+    <desc lang="pt-BR">VT - Barcelona x Paris FC. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260924073000 -0300" stop="20260924080000 -0300" channel="espn.br">
+    <title lang="pt-BR">Especial Professores do Brasil: Judô</title>
+    <desc lang="pt-BR">Especial Professores do Brasil: Judô. Programação esportiva — Judô.</desc>
+    <category lang="pt-BR">Judô</category>
+  </programme>
+  <programme start="20260924080000 -0300" stop="20260924090000 -0300" channel="espn.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260924090000 -0300" stop="20260924110000 -0300" channel="espn.br">
+    <title lang="pt-BR">VT - Servette FC x OL Lyonnes</title>
+    <desc lang="pt-BR">VT - Servette FC x OL Lyonnes. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260924110000 -0300" stop="20260924130000 -0300" channel="espn.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260924130000 -0300" stop="20260924143000 -0300" channel="espn.br">
+    <title lang="pt-BR">F Show</title>
+    <desc lang="pt-BR">F Show. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260924143000 -0300" stop="20260924153000 -0300" channel="espn.br">
+    <title lang="pt-BR">Mundo F</title>
+    <desc lang="pt-BR">Mundo F. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260924153000 -0300" stop="20260924174500 -0300" channel="espn.br">
+    <title lang="pt-BR">Holanda x Alemanha</title>
+    <desc lang="pt-BR">Holanda x Alemanha. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924174500 -0300" stop="20260924200000 -0300" channel="espn.br">
+    <title lang="pt-BR">Equipe F</title>
+    <desc lang="pt-BR">Equipe F. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260924200000 -0300" stop="20260924220000 -0300" channel="espn.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260924220000 -0300" stop="20260924230000 -0300" channel="espn.br">
+    <title lang="pt-BR">Resenha: Fernandinho</title>
+    <desc lang="pt-BR">Resenha: Fernandinho. Programação esportiva — Entrevista esportiva.</desc>
+    <category lang="pt-BR">Entrevista esportiva</category>
+  </programme>
+  <programme start="20260924230000 -0300" stop="20260925000000 -0300" channel="espn.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260924000000 -0300" stop="20260924020000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - Barcelona x Paris FC</title>
+    <desc lang="pt-BR">VT - Barcelona x Paris FC. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260924020000 -0300" stop="20260924023000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Show da Rodada da Premier League</title>
+    <desc lang="pt-BR">Show da Rodada da Premier League. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924023000 -0300" stop="20260924033000 -0300" channel="espn2.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260924033000 -0300" stop="20260924060000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - ESPN KnockOut: PBC</title>
+    <desc lang="pt-BR">VT - ESPN KnockOut: PBC. Programação esportiva — Lutas.</desc>
+    <category lang="pt-BR">Lutas</category>
+  </programme>
+  <programme start="20260924060000 -0300" stop="20260924070000 -0300" channel="espn2.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260924070000 -0300" stop="20260924080000 -0300" channel="espn2.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260924080000 -0300" stop="20260924090000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Bola da Vez</title>
+    <desc lang="pt-BR">Bola da Vez. Programação esportiva — Entrevista esportiva.</desc>
+    <category lang="pt-BR">Entrevista esportiva</category>
+  </programme>
+  <programme start="20260924090000 -0300" stop="20260924110000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Rugby: WXV Global Series Challenger</title>
+    <desc lang="pt-BR">Rugby: WXV Global Series Challenger. Programação esportiva — Rugby.</desc>
+    <category lang="pt-BR">Rugby</category>
+  </programme>
+  <programme start="20260924110000 -0300" stop="20260924113000 -0300" channel="espn2.br">
+    <title lang="pt-BR">UEFA Nations League Preview</title>
+    <desc lang="pt-BR">UEFA Nations League Preview. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924113000 -0300" stop="20260924133000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - Servette FC x OL Lyonnes</title>
+    <desc lang="pt-BR">VT - Servette FC x OL Lyonnes. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260924133000 -0300" stop="20260924153000 -0300" channel="espn2.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260924153000 -0300" stop="20260924173000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - Bournemouth x Liverpool</title>
+    <desc lang="pt-BR">VT - Bournemouth x Liverpool. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924173000 -0300" stop="20260924193000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - Cuiabá x Náutico</title>
+    <desc lang="pt-BR">VT - Cuiabá x Náutico. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924193000 -0300" stop="20260924203000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - New York Giants x Los Angeles Rams</title>
+    <desc lang="pt-BR">VT - New York Giants x Los Angeles Rams. Programação esportiva — Futebol americano.</desc>
+    <category lang="pt-BR">Futebol americano</category>
+  </programme>
+  <programme start="20260924203000 -0300" stop="20260924233000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Liberty x Coastal Carolina</title>
+    <desc lang="pt-BR">Liberty x Coastal Carolina. Programação esportiva — Futebol americano.</desc>
+    <category lang="pt-BR">Futebol americano</category>
+  </programme>
+  <programme start="20260924233000 -0300" stop="20260925003000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - Washington Commanders x Dallas Cowboys</title>
+    <desc lang="pt-BR">VT - Washington Commanders x Dallas Cowboys. Programação esportiva — Futebol americano.</desc>
+    <category lang="pt-BR">Futebol americano</category>
+  </programme>
+  <programme start="20260924010000 -0300" stop="20260924020000 -0300" channel="espn3.br">
+    <title lang="pt-BR">Especial: Ronaldo 50</title>
+    <desc lang="pt-BR">Especial: Ronaldo 50. Programação esportiva — Especial esportivo.</desc>
+    <category lang="pt-BR">Especial esportivo</category>
+  </programme>
+  <programme start="20260924020000 -0300" stop="20260924030000 -0300" channel="espn3.br">
+    <title lang="pt-BR">SportsCenter Americano</title>
+    <desc lang="pt-BR">SportsCenter Americano. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260924030000 -0300" stop="20260924040000 -0300" channel="espn3.br">
+    <title lang="pt-BR">SportsCenter Americano</title>
+    <desc lang="pt-BR">SportsCenter Americano. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260924040000 -0300" stop="20260924060000 -0300" channel="espn3.br">
+    <title lang="pt-BR">VT - Bayern de Munique x Manchester City</title>
+    <desc lang="pt-BR">VT - Bayern de Munique x Manchester City. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260924060000 -0300" stop="20260924080000 -0300" channel="espn3.br">
+    <title lang="pt-BR">VT - Servette FC x OL Lyonnes</title>
+    <desc lang="pt-BR">VT - Servette FC x OL Lyonnes. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260924080000 -0300" stop="20260924090000 -0300" channel="espn3.br">
+    <title lang="pt-BR">SportsCenter Americano</title>
+    <desc lang="pt-BR">SportsCenter Americano. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260924090000 -0300" stop="20260924100000 -0300" channel="espn3.br">
+    <title lang="pt-BR">Hipismo: Spruce Meadows</title>
+    <desc lang="pt-BR">Hipismo: Spruce Meadows. Programação esportiva — Hipismo.</desc>
+    <category lang="pt-BR">Hipismo</category>
+  </programme>
+  <programme start="20260924100000 -0300" stop="20260924113000 -0300" channel="espn3.br">
+    <title lang="pt-BR">Show da Rodada da EFL</title>
+    <desc lang="pt-BR">Show da Rodada da EFL. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924113000 -0300" stop="20260924133000 -0300" channel="espn3.br">
+    <title lang="pt-BR">VT - Barcelona x Paris FC</title>
+    <desc lang="pt-BR">VT - Barcelona x Paris FC. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260924133000 -0300" stop="20260924150000 -0300" channel="espn3.br">
+    <title lang="pt-BR">Mundial de Motovelocidade: GP da Áustria</title>
+    <desc lang="pt-BR">Mundial de Motovelocidade: GP da Áustria. Programação esportiva — Motovelocidade.</desc>
+    <category lang="pt-BR">Motovelocidade</category>
+  </programme>
+  <programme start="20260924150000 -0300" stop="20260924160000 -0300" channel="espn3.br">
+    <title lang="pt-BR">Golfe: 2026 Presidents Cup</title>
+    <desc lang="pt-BR">Golfe: 2026 Presidents Cup. Programação esportiva — Golfe.</desc>
+    <category lang="pt-BR">Golfe</category>
+  </programme>
+  <programme start="20260924160000 -0300" stop="20260924170000 -0300" channel="espn3.br">
+    <title lang="pt-BR">Golfe: 2026 Presidents Cup</title>
+    <desc lang="pt-BR">Golfe: 2026 Presidents Cup. Programação esportiva — Golfe.</desc>
+    <category lang="pt-BR">Golfe</category>
+  </programme>
+  <programme start="20260924170000 -0300" stop="20260924200000 -0300" channel="espn3.br">
+    <title lang="pt-BR">Golfe: 2026 Presidents Cup</title>
+    <desc lang="pt-BR">Golfe: 2026 Presidents Cup. Programação esportiva — Golfe.</desc>
+    <category lang="pt-BR">Golfe</category>
+  </programme>
+  <programme start="20260924200000 -0300" stop="20260924230000 -0300" channel="espn3.br">
+    <title lang="pt-BR">MLB</title>
+    <desc lang="pt-BR">MLB. Programação esportiva — Beisebol.</desc>
+    <category lang="pt-BR">Beisebol</category>
+  </programme>
+  <programme start="20260924230000 -0300" stop="20260925000000 -0300" channel="espn3.br">
+    <title lang="pt-BR">UEFA Women's Champions League Highlight Show</title>
+    <desc lang="pt-BR">UEFA Women's Champions League Highlight Show. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260924000000 -0300" stop="20260924020000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - WNBA: Minnesota Lynx x Indiana Fever</title>
+    <desc lang="pt-BR">VT - WNBA: Minnesota Lynx x Indiana Fever. Programação esportiva — Basquete.</desc>
+    <category lang="pt-BR">Basquete</category>
+  </programme>
+  <programme start="20260924020000 -0300" stop="20260924040000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - WNBA: Los Angeles Sparks x Las Vegas Aces</title>
+    <desc lang="pt-BR">VT - WNBA: Los Angeles Sparks x Las Vegas Aces. Programação esportiva — Basquete.</desc>
+    <category lang="pt-BR">Basquete</category>
+  </programme>
+  <programme start="20260924040000 -0300" stop="20260924060000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Rugby: WXV Global Series Challenger</title>
+    <desc lang="pt-BR">Rugby: WXV Global Series Challenger. Programação esportiva — Rugby.</desc>
+    <category lang="pt-BR">Rugby</category>
+  </programme>
+  <programme start="20260924060000 -0300" stop="20260924070000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Hipismo: Spruce Meadows</title>
+    <desc lang="pt-BR">Hipismo: Spruce Meadows. Programação esportiva — Hipismo.</desc>
+    <category lang="pt-BR">Hipismo</category>
+  </programme>
+  <programme start="20260924070000 -0300" stop="20260924093000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - MLB: Cleveland Guardians x Boston Red Sox</title>
+    <desc lang="pt-BR">VT - MLB: Cleveland Guardians x Boston Red Sox. Programação esportiva — Beisebol.</desc>
+    <category lang="pt-BR">Beisebol</category>
+  </programme>
+  <programme start="20260924093000 -0300" stop="20260924113000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - WNBA: Los Angeles Sparks x Las Vegas Aces</title>
+    <desc lang="pt-BR">VT - WNBA: Los Angeles Sparks x Las Vegas Aces. Programação esportiva — Basquete.</desc>
+    <category lang="pt-BR">Basquete</category>
+  </programme>
+  <programme start="20260924113000 -0300" stop="20260924123000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Especial: Ronaldo 50</title>
+    <desc lang="pt-BR">Especial: Ronaldo 50. Programação esportiva — Especial esportivo.</desc>
+    <category lang="pt-BR">Especial esportivo</category>
+  </programme>
+  <programme start="20260924123000 -0300" stop="20260924140000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Mundial de Motovelocidade: GP da Áustria</title>
+    <desc lang="pt-BR">Mundial de Motovelocidade: GP da Áustria. Programação esportiva — Motovelocidade.</desc>
+    <category lang="pt-BR">Motovelocidade</category>
+  </programme>
+  <programme start="20260924140000 -0300" stop="20260924150000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - Washington Commanders x Dallas Cowboys</title>
+    <desc lang="pt-BR">VT - Washington Commanders x Dallas Cowboys. Programação esportiva — Futebol americano.</desc>
+    <category lang="pt-BR">Futebol americano</category>
+  </programme>
+  <programme start="20260924150000 -0300" stop="20260924160000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Yaras, as Guerreiras do Brasil</title>
+    <desc lang="pt-BR">Yaras, as Guerreiras do Brasil. Programação esportiva — Rugby.</desc>
+    <category lang="pt-BR">Rugby</category>
+  </programme>
+  <programme start="20260924160000 -0300" stop="20260924180000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - San Lorenzo x Boca Juniors</title>
+    <desc lang="pt-BR">VT - San Lorenzo x Boca Juniors. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924180000 -0300" stop="20260924190000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Bola da Vez</title>
+    <desc lang="pt-BR">Bola da Vez. Programação esportiva — Entrevista esportiva.</desc>
+    <category lang="pt-BR">Entrevista esportiva</category>
+  </programme>
+  <programme start="20260924190000 -0300" stop="20260924213000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - ESPN Knockout: PBC</title>
+    <desc lang="pt-BR">VT - ESPN Knockout: PBC. Programação esportiva — Lutas.</desc>
+    <category lang="pt-BR">Lutas</category>
+  </programme>
+  <programme start="20260924213000 -0300" stop="20260924220000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Show da Rodada do Italiano</title>
+    <desc lang="pt-BR">Show da Rodada do Italiano. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924220000 -0300" stop="20260924230000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Mundo F</title>
+    <desc lang="pt-BR">Mundo F. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260924230000 -0300" stop="20260925000000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - Cuiabá x Náutico</title>
+    <desc lang="pt-BR">VT - Cuiabá x Náutico. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924003000 -0300" stop="20260924004500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Oléé</title>
+    <desc lang="pt-BR">Oléé. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260924004500 -0300" stop="20260924013000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Mundo PBR</title>
+    <desc lang="pt-BR">Mundo PBR. Programação esportiva — Rodeio.</desc>
+    <category lang="pt-BR">Rodeio</category>
+  </programme>
+  <programme start="20260924013000 -0300" stop="20260924031500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">VT - Baltika x Zenit</title>
+    <desc lang="pt-BR">VT - Baltika x Zenit. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924031500 -0300" stop="20260924041500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Depois do Jogo</title>
+    <desc lang="pt-BR">Depois do Jogo. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260924041500 -0300" stop="20260924054500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Supermotor</title>
+    <desc lang="pt-BR">Supermotor. Programação esportiva — Automobilismo.</desc>
+    <category lang="pt-BR">Automobilismo</category>
+  </programme>
+  <programme start="20260924054500 -0300" stop="20260924060000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Vila BandSports</title>
+    <desc lang="pt-BR">Vila BandSports. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260924060000 -0300" stop="20260924061500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Momento Brasil Olímpico</title>
+    <desc lang="pt-BR">Momento Brasil Olímpico. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260924061500 -0300" stop="20260924071500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Papo de Paddock</title>
+    <desc lang="pt-BR">Papo de Paddock. Programação esportiva — Automobilismo.</desc>
+    <category lang="pt-BR">Automobilismo</category>
+  </programme>
+  <programme start="20260924071500 -0300" stop="20260924073000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Oléé</title>
+    <desc lang="pt-BR">Oléé. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260924073000 -0300" stop="20260924083000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Depois do Jogo</title>
+    <desc lang="pt-BR">Depois do Jogo. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260924083000 -0300" stop="20260924090000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">BandSports News</title>
+    <desc lang="pt-BR">BandSports News. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260924090000 -0300" stop="20260924103000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Supermotor</title>
+    <desc lang="pt-BR">Supermotor. Programação esportiva — Automobilismo.</desc>
+    <category lang="pt-BR">Automobilismo</category>
+  </programme>
+  <programme start="20260924103000 -0300" stop="20260924111500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Expedicionários do Brasil</title>
+    <desc lang="pt-BR">Expedicionários do Brasil. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260924111500 -0300" stop="20260924114500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Esporte Total</title>
+    <desc lang="pt-BR">Esporte Total. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260924114500 -0300" stop="20260924120000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Oléé</title>
+    <desc lang="pt-BR">Oléé. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260924120000 -0300" stop="20260924140000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Programação BandSports</title>
+    <desc lang="pt-BR">Programação BandSports. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260924140000 -0300" stop="20260924144500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Sala do Esporte</title>
+    <desc lang="pt-BR">Sala do Esporte. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260924144500 -0300" stop="20260924164500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Programação BandSports</title>
+    <desc lang="pt-BR">Programação BandSports. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260924164500 -0300" stop="20260924173000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Mundo PBR</title>
+    <desc lang="pt-BR">Mundo PBR. Programação esportiva — Rodeio.</desc>
+    <category lang="pt-BR">Rodeio</category>
+  </programme>
+  <programme start="20260924173000 -0300" stop="20260924193000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Bola Rolando</title>
+    <desc lang="pt-BR">Bola Rolando. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260924193000 -0300" stop="20260924210000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Encontro de Craques</title>
+    <desc lang="pt-BR">Encontro de Craques. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260924210000 -0300" stop="20260924231500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Programação BandSports</title>
+    <desc lang="pt-BR">Programação BandSports. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260924231500 -0300" stop="20260924233000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Vila BandSports</title>
+    <desc lang="pt-BR">Vila BandSports. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260924233000 -0300" stop="20260925003000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Depois do Jogo</title>
+    <desc lang="pt-BR">Depois do Jogo. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260925003000 -0300" stop="20260925013000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Liechtenstein x Lituânia</title>
+    <desc lang="pt-BR">VT - Liechtenstein x Lituânia. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925013000 -0300" stop="20260925023000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Áustria x Israel</title>
+    <desc lang="pt-BR">VT - Áustria x Israel. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925023000 -0300" stop="20260925033000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - São Paulo x Palmeiras</title>
+    <desc lang="pt-BR">VT - São Paulo x Palmeiras. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260925033000 -0300" stop="20260925040000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - São Paulo x Internacional</title>
+    <desc lang="pt-BR">VT - São Paulo x Internacional. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925040000 -0300" stop="20260925043000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Athletico-PR x Bahia</title>
+    <desc lang="pt-BR">VT - Athletico-PR x Bahia. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925043000 -0300" stop="20260925050000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Corinthians x Fluminense</title>
+    <desc lang="pt-BR">VT - Corinthians x Fluminense. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925050000 -0300" stop="20260925053000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Flamengo x Bragantino</title>
+    <desc lang="pt-BR">VT - Flamengo x Bragantino. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925053000 -0300" stop="20260925062500 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Portugal x País de Gales</title>
+    <desc lang="pt-BR">VT - Portugal x País de Gales. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925062500 -0300" stop="20260925070000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Aquecimento SporTV</title>
+    <desc lang="pt-BR">Aquecimento SporTV. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260925070000 -0300" stop="20260925090000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Brasil x Austrália</title>
+    <desc lang="pt-BR">Brasil x Austrália. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925090000 -0300" stop="20260925100000 -0300" channel="sportv.br">
+    <title lang="pt-BR">SporTV News</title>
+    <desc lang="pt-BR">SporTV News. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260925100000 -0300" stop="20260925121500 -0300" channel="sportv.br">
+    <title lang="pt-BR">Redação SporTV</title>
+    <desc lang="pt-BR">Redação SporTV. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260925121500 -0300" stop="20260925125500 -0300" channel="sportv.br">
+    <title lang="pt-BR">Tá On</title>
+    <desc lang="pt-BR">Tá On. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260925125500 -0300" stop="20260925150000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Seleção SporTV</title>
+    <desc lang="pt-BR">Seleção SporTV. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260925150000 -0300" stop="20260925174500 -0300" channel="sportv.br">
+    <title lang="pt-BR">Turquia x França</title>
+    <desc lang="pt-BR">Turquia x França. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925174500 -0300" stop="20260925190000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Tá na Área</title>
+    <desc lang="pt-BR">Tá na Área. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260925190000 -0300" stop="20260925200000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Cruzeiro x Coritiba</title>
+    <desc lang="pt-BR">Cruzeiro x Coritiba. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925200000 -0300" stop="20260925210000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Goiás x Santos</title>
+    <desc lang="pt-BR">Goiás x Santos. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925210000 -0300" stop="20260925220000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Botafogo x Sport</title>
+    <desc lang="pt-BR">Botafogo x Sport. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925220000 -0300" stop="20260925233000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Troca de Passes</title>
+    <desc lang="pt-BR">Troca de Passes. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260925233000 -0300" stop="20260926003000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Red Bull Building Drop</title>
+    <desc lang="pt-BR">Red Bull Building Drop. Programação esportiva — Esportes radicais.</desc>
+    <category lang="pt-BR">Esportes radicais</category>
+  </programme>
+  <programme start="20260925000000 -0300" stop="20260925020000 -0300" channel="espn.br">
+    <title lang="pt-BR">VT - Noruega x Dinamarca</title>
+    <desc lang="pt-BR">VT - Noruega x Dinamarca. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925020000 -0300" stop="20260925040000 -0300" channel="espn.br">
+    <title lang="pt-BR">VT - Millwall x West Ham</title>
+    <desc lang="pt-BR">VT - Millwall x West Ham. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925040000 -0300" stop="20260925060000 -0300" channel="espn.br">
+    <title lang="pt-BR">VT - Arsenal x HB Koge Women</title>
+    <desc lang="pt-BR">VT - Arsenal x HB Koge Women. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260925060000 -0300" stop="20260925080000 -0300" channel="espn.br">
+    <title lang="pt-BR">VT - Sérvia x Grécia</title>
+    <desc lang="pt-BR">VT - Sérvia x Grécia. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925080000 -0300" stop="20260925090000 -0300" channel="espn.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260925090000 -0300" stop="20260925103000 -0300" channel="espn.br">
+    <title lang="pt-BR">Linha de Passe</title>
+    <desc lang="pt-BR">Linha de Passe. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260925103000 -0300" stop="20260925123000 -0300" channel="espn.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260925123000 -0300" stop="20260925143000 -0300" channel="espn.br">
+    <title lang="pt-BR">F Show</title>
+    <desc lang="pt-BR">F Show. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260925143000 -0300" stop="20260925153000 -0300" channel="espn.br">
+    <title lang="pt-BR">Mundo F</title>
+    <desc lang="pt-BR">Mundo F. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260925153000 -0300" stop="20260925174500 -0300" channel="espn.br">
+    <title lang="pt-BR">Suécia x Romênia</title>
+    <desc lang="pt-BR">Suécia x Romênia. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925174500 -0300" stop="20260925193000 -0300" channel="espn.br">
+    <title lang="pt-BR">Equipe F</title>
+    <desc lang="pt-BR">Equipe F. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260925193000 -0300" stop="20260925210000 -0300" channel="espn.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260925210000 -0300" stop="20260925220000 -0300" channel="espn.br">
+    <title lang="pt-BR">Mina de Passe</title>
+    <desc lang="pt-BR">Mina de Passe. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925220000 -0300" stop="20260925230000 -0300" channel="espn.br">
+    <title lang="pt-BR">Resenha</title>
+    <desc lang="pt-BR">Resenha. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260925230000 -0300" stop="20260926000000 -0300" channel="espn.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260925003000 -0300" stop="20260925013000 -0300" channel="espn2.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260925013000 -0300" stop="20260925033000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - Holanda x Alemanha</title>
+    <desc lang="pt-BR">VT - Holanda x Alemanha. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925033000 -0300" stop="20260925060000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - Liberty x Coastal Carolina</title>
+    <desc lang="pt-BR">VT - Liberty x Coastal Carolina. Programação esportiva — Futebol americano.</desc>
+    <category lang="pt-BR">Futebol americano</category>
+  </programme>
+  <programme start="20260925060000 -0300" stop="20260925070000 -0300" channel="espn2.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260925070000 -0300" stop="20260925080000 -0300" channel="espn2.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260925080000 -0300" stop="20260925083000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Show da Rodada do Italiano</title>
+    <desc lang="pt-BR">Show da Rodada do Italiano. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925083000 -0300" stop="20260925093000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Laver Cup 2026</title>
+    <desc lang="pt-BR">Laver Cup 2026. Programação esportiva — Tênis.</desc>
+    <category lang="pt-BR">Tênis</category>
+  </programme>
+  <programme start="20260925093000 -0300" stop="20260925103000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Laver Cup 2026</title>
+    <desc lang="pt-BR">Laver Cup 2026. Programação esportiva — Tênis.</desc>
+    <category lang="pt-BR">Tênis</category>
+  </programme>
+  <programme start="20260925103000 -0300" stop="20260925130000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Laver Cup 2026</title>
+    <desc lang="pt-BR">Laver Cup 2026. Programação esportiva — Tênis.</desc>
+    <category lang="pt-BR">Tênis</category>
+  </programme>
+  <programme start="20260925130000 -0300" stop="20260925140000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - New York Giants x Los Angeles Rams</title>
+    <desc lang="pt-BR">VT - New York Giants x Los Angeles Rams. Programação esportiva — Futebol americano.</desc>
+    <category lang="pt-BR">Futebol americano</category>
+  </programme>
+  <programme start="20260925140000 -0300" stop="20260925143000 -0300" channel="espn2.br">
+    <title lang="pt-BR">WTA Tour Magazine</title>
+    <desc lang="pt-BR">WTA Tour Magazine. Programação esportiva — Tênis.</desc>
+    <category lang="pt-BR">Tênis</category>
+  </programme>
+  <programme start="20260925143000 -0300" stop="20260925150000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Show da Rodada da EFL</title>
+    <desc lang="pt-BR">Show da Rodada da EFL. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925150000 -0300" stop="20260925160000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Laver Cup 2026</title>
+    <desc lang="pt-BR">Laver Cup 2026. Programação esportiva — Tênis.</desc>
+    <category lang="pt-BR">Tênis</category>
+  </programme>
+  <programme start="20260925160000 -0300" stop="20260925190000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Laver Cup 2026</title>
+    <desc lang="pt-BR">Laver Cup 2026. Programação esportiva — Tênis.</desc>
+    <category lang="pt-BR">Tênis</category>
+  </programme>
+  <programme start="20260925190000 -0300" stop="20260925200000 -0300" channel="espn2.br">
+    <title lang="pt-BR">ESPN League</title>
+    <desc lang="pt-BR">ESPN League. Programação esportiva — Basquete.</desc>
+    <category lang="pt-BR">Basquete</category>
+  </programme>
+  <programme start="20260925200000 -0300" stop="20260925210000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - New York Giants x Los Angeles Rams</title>
+    <desc lang="pt-BR">VT - New York Giants x Los Angeles Rams. Programação esportiva — Futebol americano.</desc>
+    <category lang="pt-BR">Futebol americano</category>
+  </programme>
+  <programme start="20260925210000 -0300" stop="20260925230000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - Itália x Bélgica</title>
+    <desc lang="pt-BR">VT - Itália x Bélgica. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925230000 -0300" stop="20260926000000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - Laver Cup 2026</title>
+    <desc lang="pt-BR">VT - Laver Cup 2026. Programação esportiva — Tênis.</desc>
+    <category lang="pt-BR">Tênis</category>
+  </programme>
+  <programme start="20260925010000 -0300" stop="20260925030000 -0300" channel="espn4.br">
+    <title lang="pt-BR">VT - Fluminense x Platense</title>
+    <desc lang="pt-BR">VT - Fluminense x Platense. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925030000 -0300" stop="20260925050000 -0300" channel="espn4.br">
+    <title lang="pt-BR">VT - Platense x Fluminense</title>
+    <desc lang="pt-BR">VT - Platense x Fluminense. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925050000 -0300" stop="20260925060000 -0300" channel="espn4.br">
+    <title lang="pt-BR">Nascar Brasil: Etapa Curvelo-MG</title>
+    <desc lang="pt-BR">Nascar Brasil: Etapa Curvelo-MG. Programação esportiva — Automobilismo.</desc>
+    <category lang="pt-BR">Automobilismo</category>
+  </programme>
+  <programme start="20260925060000 -0300" stop="20260925070000 -0300" channel="espn4.br">
+    <title lang="pt-BR">Bola da Vez</title>
+    <desc lang="pt-BR">Bola da Vez. Programação esportiva — Entrevista esportiva.</desc>
+    <category lang="pt-BR">Entrevista esportiva</category>
+  </programme>
+  <programme start="20260925070000 -0300" stop="20260925090000 -0300" channel="espn4.br">
+    <title lang="pt-BR">VT - Santos x Atlético-MG</title>
+    <desc lang="pt-BR">VT - Santos x Atlético-MG. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925090000 -0300" stop="20260925110000 -0300" channel="espn4.br">
+    <title lang="pt-BR">VT - Atlético-MG x Santos</title>
+    <desc lang="pt-BR">VT - Atlético-MG x Santos. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925110000 -0300" stop="20260925120000 -0300" channel="espn4.br">
+    <title lang="pt-BR">UEFA Nations League Match Night Highlights</title>
+    <desc lang="pt-BR">UEFA Nations League Match Night Highlights. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925120000 -0300" stop="20260925121500 -0300" channel="espn4.br">
+    <title lang="pt-BR">Momento ESPN</title>
+    <desc lang="pt-BR">Momento ESPN. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260925121500 -0300" stop="20260925124500 -0300" channel="espn4.br">
+    <title lang="pt-BR">Show da Rodada do Campeonato Italiano</title>
+    <desc lang="pt-BR">Show da Rodada do Campeonato Italiano. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925124500 -0300" stop="20260925150000 -0300" channel="espn4.br">
+    <title lang="pt-BR">Geórgia x Irlanda do Norte</title>
+    <desc lang="pt-BR">Geórgia x Irlanda do Norte. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925150000 -0300" stop="20260925153000 -0300" channel="espn4.br">
+    <title lang="pt-BR">F1: The Inside Line</title>
+    <desc lang="pt-BR">F1: The Inside Line. Programação esportiva — Fórmula 1.</desc>
+    <category lang="pt-BR">Fórmula 1</category>
+  </programme>
+  <programme start="20260925153000 -0300" stop="20260925163000 -0300" channel="espn4.br">
+    <title lang="pt-BR">Nascar Brasil: Etapa Curvelo-MG</title>
+    <desc lang="pt-BR">Nascar Brasil: Etapa Curvelo-MG. Programação esportiva — Automobilismo.</desc>
+    <category lang="pt-BR">Automobilismo</category>
+  </programme>
+  <programme start="20260925163000 -0300" stop="20260925173000 -0300" channel="espn4.br">
+    <title lang="pt-BR">Especial: Ronaldo 50</title>
+    <desc lang="pt-BR">Especial: Ronaldo 50. Programação esportiva — Especial esportivo.</desc>
+    <category lang="pt-BR">Especial esportivo</category>
+  </programme>
+  <programme start="20260925173000 -0300" stop="20260925180000 -0300" channel="espn4.br">
+    <title lang="pt-BR">Destaques da Conmebol Sul-Americana</title>
+    <desc lang="pt-BR">Destaques da Conmebol Sul-Americana. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925180000 -0300" stop="20260925200000 -0300" channel="espn4.br">
+    <title lang="pt-BR">VT - Holanda x Alemanha</title>
+    <desc lang="pt-BR">VT - Holanda x Alemanha. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925200000 -0300" stop="20260925203000 -0300" channel="espn4.br">
+    <title lang="pt-BR">Premier League Stories</title>
+    <desc lang="pt-BR">Premier League Stories. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925203000 -0300" stop="20260925210000 -0300" channel="espn4.br">
+    <title lang="pt-BR">Destaques da Conmebol Libertadores</title>
+    <desc lang="pt-BR">Destaques da Conmebol Libertadores. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925210000 -0300" stop="20260925230000 -0300" channel="espn4.br">
+    <title lang="pt-BR">VT - Suécia x Romênia</title>
+    <desc lang="pt-BR">VT - Suécia x Romênia. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925230000 -0300" stop="20260926000000 -0300" channel="espn4.br">
+    <title lang="pt-BR">Série B</title>
+    <desc lang="pt-BR">Série B. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925003000 -0300" stop="20260925004500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Oléé</title>
+    <desc lang="pt-BR">Oléé. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260925004500 -0300" stop="20260925023000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">VT - Dinamo Makhachkala x CSKA</title>
+    <desc lang="pt-BR">VT - Dinamo Makhachkala x CSKA. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260925023000 -0300" stop="20260925040000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Encontro de Craques</title>
+    <desc lang="pt-BR">Encontro de Craques. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260925040000 -0300" stop="20260925050000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Depois do Jogo</title>
+    <desc lang="pt-BR">Depois do Jogo. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260925050000 -0300" stop="20260925071500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">PBR Brasil: Etapa Uberaba-MG - Round 1</title>
+    <desc lang="pt-BR">PBR Brasil: Etapa Uberaba-MG - Round 1. Programação esportiva — Rodeio.</desc>
+    <category lang="pt-BR">Rodeio</category>
+  </programme>
+  <programme start="20260925071500 -0300" stop="20260925073000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Oléé</title>
+    <desc lang="pt-BR">Oléé. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260925073000 -0300" stop="20260925083000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Depois do Jogo</title>
+    <desc lang="pt-BR">Depois do Jogo. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260925083000 -0300" stop="20260925090000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">BandSports News</title>
+    <desc lang="pt-BR">BandSports News. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260925090000 -0300" stop="20260925103000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Encontro de Craques</title>
+    <desc lang="pt-BR">Encontro de Craques. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260925103000 -0300" stop="20260925110000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">The Golf Brasil</title>
+    <desc lang="pt-BR">The Golf Brasil. Programação esportiva — Golfe.</desc>
+    <category lang="pt-BR">Golfe</category>
+  </programme>
+  <programme start="20260925110000 -0300" stop="20260925111500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Vila BandSports</title>
+    <desc lang="pt-BR">Vila BandSports. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260925111500 -0300" stop="20260925114500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Esporte Total</title>
+    <desc lang="pt-BR">Esporte Total. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260925114500 -0300" stop="20260925120000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Oléé</title>
+    <desc lang="pt-BR">Oléé. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260925120000 -0300" stop="20260925140000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Programação BandSports</title>
+    <desc lang="pt-BR">Programação BandSports. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260925140000 -0300" stop="20260925160000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Programação BandSports</title>
+    <desc lang="pt-BR">Programação BandSports. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260925160000 -0300" stop="20260925170000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Programação BandSports</title>
+    <desc lang="pt-BR">Programação BandSports. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260925170000 -0300" stop="20260925183000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Sala do Esporte</title>
+    <desc lang="pt-BR">Sala do Esporte. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260925183000 -0300" stop="20260925200000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Programação BandSports</title>
+    <desc lang="pt-BR">Programação BandSports. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260925200000 -0300" stop="20260925210000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Programação BandSports</title>
+    <desc lang="pt-BR">Programação BandSports. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260925210000 -0300" stop="20260925231500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Programação BandSports</title>
+    <desc lang="pt-BR">Programação BandSports. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260925231500 -0300" stop="20260925234500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">The Golf Brasil</title>
+    <desc lang="pt-BR">The Golf Brasil. Programação esportiva — Golfe.</desc>
+    <category lang="pt-BR">Golfe</category>
+  </programme>
+  <programme start="20260925234500 -0300" stop="20260926004500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Expedicionários do Brasil</title>
+    <desc lang="pt-BR">Expedicionários do Brasil. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260926003000 -0300" stop="20260926013000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Brasil x Austrália</title>
+    <desc lang="pt-BR">VT - Brasil x Austrália. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926013000 -0300" stop="20260926023000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Turquia x França</title>
+    <desc lang="pt-BR">VT - Turquia x França. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926023000 -0300" stop="20260926033000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Hungria x Ucrânia</title>
+    <desc lang="pt-BR">VT - Hungria x Ucrânia. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926033000 -0300" stop="20260926043000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Portugal x País de Gales</title>
+    <desc lang="pt-BR">VT - Portugal x País de Gales. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926043000 -0300" stop="20260926053000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Áustria x Israel</title>
+    <desc lang="pt-BR">VT - Áustria x Israel. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926053000 -0300" stop="20260926063000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Hungria x Ucrânia</title>
+    <desc lang="pt-BR">VT - Hungria x Ucrânia. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926063000 -0300" stop="20260926070000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Corinthians x Fluminense</title>
+    <desc lang="pt-BR">VT - Corinthians x Fluminense. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926070000 -0300" stop="20260926073000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Flamengo x Bragantino</title>
+    <desc lang="pt-BR">VT - Flamengo x Bragantino. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926073000 -0300" stop="20260926083000 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Brasil x Austrália</title>
+    <desc lang="pt-BR">VT - Brasil x Austrália. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926083000 -0300" stop="20260926094500 -0300" channel="sportv.br">
+    <title lang="pt-BR">VT - Turquia x França</title>
+    <desc lang="pt-BR">VT - Turquia x França. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926094500 -0300" stop="20260926120000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Eslovênia x Escócia</title>
+    <desc lang="pt-BR">Eslovênia x Escócia. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926120000 -0300" stop="20260926130000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Aquecimento SporTV</title>
+    <desc lang="pt-BR">Aquecimento SporTV. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260926130000 -0300" stop="20260926150000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Islândia x Estônia</title>
+    <desc lang="pt-BR">Islândia x Estônia. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926150000 -0300" stop="20260926160000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Aquecimento Delas</title>
+    <desc lang="pt-BR">Aquecimento Delas. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260926160000 -0300" stop="20260926183000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Campeonato Brasileiro Feminino</title>
+    <desc lang="pt-BR">Campeonato Brasileiro Feminino. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260926183000 -0300" stop="20260926193000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Troca de Passes</title>
+    <desc lang="pt-BR">Troca de Passes. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260926193000 -0300" stop="20260926220000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Amistoso Internacional de Futebol</title>
+    <desc lang="pt-BR">Amistoso Internacional de Futebol. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926220000 -0300" stop="20260926233000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Troca de Passes</title>
+    <desc lang="pt-BR">Troca de Passes. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260926233000 -0300" stop="20260927003000 -0300" channel="sportv.br">
+    <title lang="pt-BR">Campeonato Brasileiro Feminino</title>
+    <desc lang="pt-BR">Campeonato Brasileiro Feminino. Programação esportiva — Futebol feminino.</desc>
+    <category lang="pt-BR">Futebol feminino</category>
+  </programme>
+  <programme start="20260926000000 -0300" stop="20260926010000 -0300" channel="espn.br">
+    <title lang="pt-BR">Resenha</title>
+    <desc lang="pt-BR">Resenha. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260926010000 -0300" stop="20260926020000 -0300" channel="espn.br">
+    <title lang="pt-BR">Mina de Passe</title>
+    <desc lang="pt-BR">Mina de Passe. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926020000 -0300" stop="20260926040000 -0300" channel="espn.br">
+    <title lang="pt-BR">VT - Holanda x Alemanha</title>
+    <desc lang="pt-BR">VT - Holanda x Alemanha. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926040000 -0300" stop="20260926043000 -0300" channel="espn.br">
+    <title lang="pt-BR">Especial Professores do Brasil: Judô</title>
+    <desc lang="pt-BR">Especial Professores do Brasil: Judô. Programação esportiva — Judô.</desc>
+    <category lang="pt-BR">Judô</category>
+  </programme>
+  <programme start="20260926043000 -0300" stop="20260926063000 -0300" channel="espn.br">
+    <title lang="pt-BR">VT - Geórgia x Irlanda do Norte</title>
+    <desc lang="pt-BR">VT - Geórgia x Irlanda do Norte. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926063000 -0300" stop="20260926064500 -0300" channel="espn.br">
+    <title lang="pt-BR">Momento ESPN</title>
+    <desc lang="pt-BR">Momento ESPN. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260926064500 -0300" stop="20260926084500 -0300" channel="espn.br">
+    <title lang="pt-BR">VT - Suécia x Romênia</title>
+    <desc lang="pt-BR">VT - Suécia x Romênia. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926084500 -0300" stop="20260926094500 -0300" channel="espn.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260926094500 -0300" stop="20260926114500 -0300" channel="espn.br">
+    <title lang="pt-BR">VT - Itália x Bélgica</title>
+    <desc lang="pt-BR">VT - Itália x Bélgica. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926114500 -0300" stop="20260926124500 -0300" channel="espn.br">
+    <title lang="pt-BR">Resenha</title>
+    <desc lang="pt-BR">Resenha. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260926124500 -0300" stop="20260926150000 -0300" channel="espn.br">
+    <title lang="pt-BR">Bulgária x Luxemburgo</title>
+    <desc lang="pt-BR">Bulgária x Luxemburgo. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926150000 -0300" stop="20260926153000 -0300" channel="espn.br">
+    <title lang="pt-BR">SportsCenter Abre o Jogo</title>
+    <desc lang="pt-BR">SportsCenter Abre o Jogo. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260926153000 -0300" stop="20260926174500 -0300" channel="espn.br">
+    <title lang="pt-BR">Inglaterra x Espanha</title>
+    <desc lang="pt-BR">Inglaterra x Espanha. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926174500 -0300" stop="20260926193000 -0300" channel="espn.br">
+    <title lang="pt-BR">EUA x Peru</title>
+    <desc lang="pt-BR">EUA x Peru. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926193000 -0300" stop="20260926213000 -0300" channel="espn.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260926213000 -0300" stop="20260926223000 -0300" channel="espn.br">
+    <title lang="pt-BR">Bola da Vez</title>
+    <desc lang="pt-BR">Bola da Vez. Programação esportiva — Entrevista esportiva.</desc>
+    <category lang="pt-BR">Entrevista esportiva</category>
+  </programme>
+  <programme start="20260926223000 -0300" stop="20260926230000 -0300" channel="espn.br">
+    <title lang="pt-BR">Clássicos ESPN</title>
+    <desc lang="pt-BR">Clássicos ESPN. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926230000 -0300" stop="20260927000000 -0300" channel="espn.br">
+    <title lang="pt-BR">UEFA Nations League Match Night Highlights</title>
+    <desc lang="pt-BR">UEFA Nations League Match Night Highlights. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926010000 -0300" stop="20260926020000 -0300" channel="espn2.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260926020000 -0300" stop="20260926030000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Billie Jean King Cup - Semifinal</title>
+    <desc lang="pt-BR">Billie Jean King Cup - Semifinal. Programação esportiva — Tênis.</desc>
+    <category lang="pt-BR">Tênis</category>
+  </programme>
+  <programme start="20260926030000 -0300" stop="20260926060000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Billie Jean King Cup - Semifinal</title>
+    <desc lang="pt-BR">Billie Jean King Cup - Semifinal. Programação esportiva — Tênis.</desc>
+    <category lang="pt-BR">Tênis</category>
+  </programme>
+  <programme start="20260926060000 -0300" stop="20260926070000 -0300" channel="espn2.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260926070000 -0300" stop="20260926080000 -0300" channel="espn2.br">
+    <title lang="pt-BR">SportsCenter</title>
+    <desc lang="pt-BR">SportsCenter. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260926080000 -0300" stop="20260926090000 -0300" channel="espn2.br">
+    <title lang="pt-BR">ESPN League</title>
+    <desc lang="pt-BR">ESPN League. Programação esportiva — Basquete.</desc>
+    <category lang="pt-BR">Basquete</category>
+  </programme>
+  <programme start="20260926090000 -0300" stop="20260926100000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Laver Cup 2026</title>
+    <desc lang="pt-BR">Laver Cup 2026. Programação esportiva — Tênis.</desc>
+    <category lang="pt-BR">Tênis</category>
+  </programme>
+  <programme start="20260926100000 -0300" stop="20260926130000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Laver Cup 2026</title>
+    <desc lang="pt-BR">Laver Cup 2026. Programação esportiva — Tênis.</desc>
+    <category lang="pt-BR">Tênis</category>
+  </programme>
+  <programme start="20260926130000 -0300" stop="20260926140000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Mina de Passe</title>
+    <desc lang="pt-BR">Mina de Passe. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926140000 -0300" stop="20260926150000 -0300" channel="espn2.br">
+    <title lang="pt-BR">UEFA Nations League Highlights</title>
+    <desc lang="pt-BR">UEFA Nations League Highlights. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926150000 -0300" stop="20260926160000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Laver Cup 2026</title>
+    <desc lang="pt-BR">Laver Cup 2026. Programação esportiva — Tênis.</desc>
+    <category lang="pt-BR">Tênis</category>
+  </programme>
+  <programme start="20260926160000 -0300" stop="20260926190000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Laver Cup 2026</title>
+    <desc lang="pt-BR">Laver Cup 2026. Programação esportiva — Tênis.</desc>
+    <category lang="pt-BR">Tênis</category>
+  </programme>
+  <programme start="20260926190000 -0300" stop="20260926200000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Wimbledon Official Film</title>
+    <desc lang="pt-BR">Wimbledon Official Film. Programação esportiva — Tênis.</desc>
+    <category lang="pt-BR">Tênis</category>
+  </programme>
+  <programme start="20260926200000 -0300" stop="20260926220000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - Rugby: WXV Global Series Challenger</title>
+    <desc lang="pt-BR">VT - Rugby: WXV Global Series Challenger. Programação esportiva — Rugby.</desc>
+    <category lang="pt-BR">Rugby</category>
+  </programme>
+  <programme start="20260926220000 -0300" stop="20260926230000 -0300" channel="espn2.br">
+    <title lang="pt-BR">Yaras, as Guerreiras do Brasil</title>
+    <desc lang="pt-BR">Yaras, as Guerreiras do Brasil. Programação esportiva — Rugby.</desc>
+    <category lang="pt-BR">Rugby</category>
+  </programme>
+  <programme start="20260926230000 -0300" stop="20260927000000 -0300" channel="espn2.br">
+    <title lang="pt-BR">VT - Goiás x Atlético-GO</title>
+    <desc lang="pt-BR">VT - Goiás x Atlético-GO. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926010000 -0300" stop="20260926013000 -0300" channel="espn3.br">
+    <title lang="pt-BR">Premier League Stories</title>
+    <desc lang="pt-BR">Premier League Stories. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926013000 -0300" stop="20260926023000 -0300" channel="espn3.br">
+    <title lang="pt-BR">VT - New York Giants x Los Angeles Rams</title>
+    <desc lang="pt-BR">VT - New York Giants x Los Angeles Rams. Programação esportiva — Futebol americano.</desc>
+    <category lang="pt-BR">Futebol americano</category>
+  </programme>
+  <programme start="20260926023000 -0300" stop="20260926040000 -0300" channel="espn3.br">
+    <title lang="pt-BR">SportsCenter Americano</title>
+    <desc lang="pt-BR">SportsCenter Americano. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260926040000 -0300" stop="20260926050000 -0300" channel="espn3.br">
+    <title lang="pt-BR">Resenha</title>
+    <desc lang="pt-BR">Resenha. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260926050000 -0300" stop="20260926060000 -0300" channel="espn3.br">
+    <title lang="pt-BR">ESPN League</title>
+    <desc lang="pt-BR">ESPN League. Programação esportiva — Basquete.</desc>
+    <category lang="pt-BR">Basquete</category>
+  </programme>
+  <programme start="20260926060000 -0300" stop="20260926080000 -0300" channel="espn3.br">
+    <title lang="pt-BR">Billie Jean King Cup - Semifinal</title>
+    <desc lang="pt-BR">Billie Jean King Cup - Semifinal. Programação esportiva — Tênis.</desc>
+    <category lang="pt-BR">Tênis</category>
+  </programme>
+  <programme start="20260926080000 -0300" stop="20260926092000 -0300" channel="espn3.br">
+    <title lang="pt-BR">SportsCenter Americano</title>
+    <desc lang="pt-BR">SportsCenter Americano. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260926092000 -0300" stop="20260926095000 -0300" channel="espn3.br">
+    <title lang="pt-BR">Show da Rodada da EFL</title>
+    <desc lang="pt-BR">Show da Rodada da EFL. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926095000 -0300" stop="20260926130000 -0300" channel="espn3.br">
+    <title lang="pt-BR">La Vuelta 26</title>
+    <desc lang="pt-BR">La Vuelta 26. Programação esportiva — Ciclismo.</desc>
+    <category lang="pt-BR">Ciclismo</category>
+  </programme>
+  <programme start="20260926130000 -0300" stop="20260926143000 -0300" channel="espn3.br">
+    <title lang="pt-BR">Linha de Passe</title>
+    <desc lang="pt-BR">Linha de Passe. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260926143000 -0300" stop="20260926163000 -0300" channel="espn3.br">
+    <title lang="pt-BR">VT - Atlético-GO x Ceará</title>
+    <desc lang="pt-BR">VT - Atlético-GO x Ceará. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926163000 -0300" stop="20260926170000 -0300" channel="espn3.br">
+    <title lang="pt-BR">Show da Rodada do Italiano</title>
+    <desc lang="pt-BR">Show da Rodada do Italiano. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926170000 -0300" stop="20260926200000 -0300" channel="espn3.br">
+    <title lang="pt-BR">MLB: Texas Rangers x Seattle Mariners</title>
+    <desc lang="pt-BR">MLB: Texas Rangers x Seattle Mariners. Programação esportiva — Beisebol.</desc>
+    <category lang="pt-BR">Beisebol</category>
+  </programme>
+  <programme start="20260926200000 -0300" stop="20260926210000 -0300" channel="espn3.br">
+    <title lang="pt-BR">Especial: Aquece NFL</title>
+    <desc lang="pt-BR">Especial: Aquece NFL. Programação esportiva — Futebol americano.</desc>
+    <category lang="pt-BR">Futebol americano</category>
+  </programme>
+  <programme start="20260926013000 -0300" stop="20260926020000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Show da Rodada da EFL</title>
+    <desc lang="pt-BR">Show da Rodada da EFL. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926020000 -0300" stop="20260926030000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Yaras, as Guerreiras do Brasil</title>
+    <desc lang="pt-BR">Yaras, as Guerreiras do Brasil. Programação esportiva — Rugby.</desc>
+    <category lang="pt-BR">Rugby</category>
+  </programme>
+  <programme start="20260926030000 -0300" stop="20260926050000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - Novorizontino x São Bernardo FC</title>
+    <desc lang="pt-BR">VT - Novorizontino x São Bernardo FC. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926050000 -0300" stop="20260926070000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - Itália x Bélgica</title>
+    <desc lang="pt-BR">VT - Itália x Bélgica. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926070000 -0300" stop="20260926080000 -0300" channel="espn5.br">
+    <title lang="pt-BR">ESPN League</title>
+    <desc lang="pt-BR">ESPN League. Programação esportiva — Basquete.</desc>
+    <category lang="pt-BR">Basquete</category>
+  </programme>
+  <programme start="20260926080000 -0300" stop="20260926103000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - MLB: Chicago Cubs x Boston Red Sox</title>
+    <desc lang="pt-BR">VT - MLB: Chicago Cubs x Boston Red Sox. Programação esportiva — Beisebol.</desc>
+    <category lang="pt-BR">Beisebol</category>
+  </programme>
+  <programme start="20260926103000 -0300" stop="20260926113000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - Washington Commanders x Dallas Cowboys</title>
+    <desc lang="pt-BR">VT - Washington Commanders x Dallas Cowboys. Programação esportiva — Futebol americano.</desc>
+    <category lang="pt-BR">Futebol americano</category>
+  </programme>
+  <programme start="20260926113000 -0300" stop="20260926120000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Premier League Stories</title>
+    <desc lang="pt-BR">Premier League Stories. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926120000 -0300" stop="20260926130000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - New York Giants x Los Angeles Rams</title>
+    <desc lang="pt-BR">VT - New York Giants x Los Angeles Rams. Programação esportiva — Futebol americano.</desc>
+    <category lang="pt-BR">Futebol americano</category>
+  </programme>
+  <programme start="20260926130000 -0300" stop="20260926150000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - Novorizontino x São Bernardo FC</title>
+    <desc lang="pt-BR">VT - Novorizontino x São Bernardo FC. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926150000 -0300" stop="20260926170000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - Geórgia x Irlanda do Norte</title>
+    <desc lang="pt-BR">VT - Geórgia x Irlanda do Norte. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926170000 -0300" stop="20260926190000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - Polônia x Bósnia e Herzegovina</title>
+    <desc lang="pt-BR">VT - Polônia x Bósnia e Herzegovina. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926190000 -0300" stop="20260926200000 -0300" channel="espn5.br">
+    <title lang="pt-BR">UEFA Nations League Match Night Highlights</title>
+    <desc lang="pt-BR">UEFA Nations League Match Night Highlights. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926200000 -0300" stop="20260926210000 -0300" channel="espn5.br">
+    <title lang="pt-BR">ESPN League</title>
+    <desc lang="pt-BR">ESPN League. Programação esportiva — Basquete.</desc>
+    <category lang="pt-BR">Basquete</category>
+  </programme>
+  <programme start="20260926210000 -0300" stop="20260926224500 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - EUA x Peru</title>
+    <desc lang="pt-BR">VT - EUA x Peru. Programação esportiva — Futebol.</desc>
+    <category lang="pt-BR">Futebol</category>
+  </programme>
+  <programme start="20260926224500 -0300" stop="20260926230000 -0300" channel="espn5.br">
+    <title lang="pt-BR">Momento ESPN</title>
+    <desc lang="pt-BR">Momento ESPN. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260926230000 -0300" stop="20260927000000 -0300" channel="espn5.br">
+    <title lang="pt-BR">VT - Rugby: WXV Global Series Challenger</title>
+    <desc lang="pt-BR">VT - Rugby: WXV Global Series Challenger. Programação esportiva — Rugby.</desc>
+    <category lang="pt-BR">Rugby</category>
+  </programme>
+  <programme start="20260926003000 -0300" stop="20260926004500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Oléé</title>
+    <desc lang="pt-BR">Oléé. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260926004500 -0300" stop="20260926023000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Programação BandSports</title>
+    <desc lang="pt-BR">Programação BandSports. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260926023000 -0300" stop="20260926040000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Encontro de Craques</title>
+    <desc lang="pt-BR">Encontro de Craques. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260926040000 -0300" stop="20260926050000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Depois do Jogo</title>
+    <desc lang="pt-BR">Depois do Jogo. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260926050000 -0300" stop="20260926071500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">PBR Brasil: Etapa Uberaba-MG - Round 1</title>
+    <desc lang="pt-BR">PBR Brasil: Etapa Uberaba-MG - Round 1. Programação esportiva — Rodeio.</desc>
+    <category lang="pt-BR">Rodeio</category>
+  </programme>
+  <programme start="20260926071500 -0300" stop="20260926073000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Oléé</title>
+    <desc lang="pt-BR">Oléé. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260926073000 -0300" stop="20260926083000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Depois do Jogo</title>
+    <desc lang="pt-BR">Depois do Jogo. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260926083000 -0300" stop="20260926090000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">BandSports News</title>
+    <desc lang="pt-BR">BandSports News. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260926090000 -0300" stop="20260926103000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Encontro de Craques</title>
+    <desc lang="pt-BR">Encontro de Craques. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260926103000 -0300" stop="20260926110000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">The Golf Brasil</title>
+    <desc lang="pt-BR">The Golf Brasil. Programação esportiva — Golfe.</desc>
+    <category lang="pt-BR">Golfe</category>
+  </programme>
+  <programme start="20260926110000 -0300" stop="20260926111500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Vila BandSports</title>
+    <desc lang="pt-BR">Vila BandSports. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260926111500 -0300" stop="20260926114500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Esporte Total</title>
+    <desc lang="pt-BR">Esporte Total. Programação esportiva — Jornalismo esportivo.</desc>
+    <category lang="pt-BR">Jornalismo esportivo</category>
+  </programme>
+  <programme start="20260926114500 -0300" stop="20260926120000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Oléé</title>
+    <desc lang="pt-BR">Oléé. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260926120000 -0300" stop="20260926140000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Programação BandSports</title>
+    <desc lang="pt-BR">Programação BandSports. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260926140000 -0300" stop="20260926160000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Programação BandSports</title>
+    <desc lang="pt-BR">Programação BandSports. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260926160000 -0300" stop="20260926170000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Programação BandSports</title>
+    <desc lang="pt-BR">Programação BandSports. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260926170000 -0300" stop="20260926183000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Sala do Esporte</title>
+    <desc lang="pt-BR">Sala do Esporte. Programação esportiva — Debate esportivo.</desc>
+    <category lang="pt-BR">Debate esportivo</category>
+  </programme>
+  <programme start="20260926183000 -0300" stop="20260926200000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Programação BandSports</title>
+    <desc lang="pt-BR">Programação BandSports. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260926200000 -0300" stop="20260926210000 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Programação BandSports</title>
+    <desc lang="pt-BR">Programação BandSports. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260926210000 -0300" stop="20260926231500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Programação BandSports</title>
+    <desc lang="pt-BR">Programação BandSports. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+  <programme start="20260926231500 -0300" stop="20260926234500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">The Golf Brasil</title>
+    <desc lang="pt-BR">The Golf Brasil. Programação esportiva — Golfe.</desc>
+    <category lang="pt-BR">Golfe</category>
+  </programme>
+  <programme start="20260926234500 -0300" stop="20260927004500 -0300" channel="bandsports.br">
+    <title lang="pt-BR">Expedicionários do Brasil</title>
+    <desc lang="pt-BR">Expedicionários do Brasil. Programação esportiva — Esportes.</desc>
+    <category lang="pt-BR">Esportes</category>
+  </programme>
+</tv>
