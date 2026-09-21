@@ -1,6 +1,6 @@
 #EXTM3U
 
-EXTINF:-1 tvg-id="TV CIDADE VERDE FULL HD" tvg-logo="https://vipcanais.net/images/sbtsp.png" group-title="TV ABERTA",TV CIDADE VERDE FULL HD
+#EXTINF:-1 tvg-id="TV CIDADE VERDE FULL HD" tvg-logo="https://vipcanais.net/images/sbtsp.png" group-title="TV ABERTA",TV CIDADE VERDE FULL HD
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN" tvg-logo="https://vipcanais.net/images/espn.png" group-title=" ESPORTES",ESPN
