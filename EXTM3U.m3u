@@ -1,0 +1,54 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN" tvg-logo="https://vipcanais.net/images/espn.png" group-title=" ESPORTES",ESPN
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/espn.txt
+
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2" tvg-logo="https://vipcanais.net/images/espn.png" group-title=" ESPORTES",ESPN 2
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/espn2.txt
+
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3" tvg-logo="https://vipcanais.net/images/espn.png" group-title=" ESPORTES",ESPN 3
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/espn3.txt
+
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4" tvg-logo="https://vipcanais.net/images/espn.png" group-title=" ESPORTES",ESPN 4
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/espn4.txt
+
+#EXTINF:-1 tvg-id="espn5.br" tvg-name="ESPN 5" tvg-logo="https://vipcanais.net/images/espn.png" group-title=" ESPORTES",ESPN 5
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/espn5.txt
+
+#EXTINF:-1 tvg-id="espn6.br" tvg-name="ESPN 6" tvg-logo="https://vipcanais.net/images/espn.png" group-title=" ESPORTES",ESPN 6
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/espn6.txt
+
+#EXTINF:-1 tvg-id="paramountplus.br" tvg-name="PARAMOUNT+" tvg-logo="https://vipcanais.net/images/paramountplus.png" group-title=" ESPORTES",PARAMOUNT+
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/paramountplus.txt
+
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES" tvg-logo="https://vipcanais.net/images/premiere.png" group-title=" ESPORTES",PREMIERE CLUBES
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/premiere.txt
+
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2" tvg-logo="https://vipcanais.net/images/premiere.png" group-title=" ESPORTES",PREMIERE 2
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/premiere2.txt
+
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3" tvg-logo="https://vipcanais.net/images/premiere.png" group-title=" ESPORTES",PREMIERE 3
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/premiere3.txt
+
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4" tvg-logo="https://vipcanais.net/images/premiere.png" group-title=" ESPORTES",PREMIERE 4
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/premiere4.txt
+
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5" tvg-logo="https://vipcanais.net/images/premiere.png" group-title=" ESPORTES",PREMIERE 5
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/premiere5.txt
+
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6" tvg-logo="https://vipcanais.net/images/premiere.png" group-title=" ESPORTES",PREMIERE 6
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/premiere6.txt
+
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIERE 7" tvg-logo="https://vipcanais.net/images/premiere.png" group-title=" ESPORTES",PREMIERE 7
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/premiere7.txt
+
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV" tvg-logo="https://vipcanais.net/images/sportv.png" group-title=" ESPORTES",SPORTV
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/sportv.txt
+
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2" tvg-logo="https://vipcanais.net/images/sportv2.png" group-title=" ESPORTES",SPORTV 2
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/sportv2.txt
+
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3" tvg-logo="https://vipcanais.net/images/sportv3.png" group-title=" ESPORTES",SPORTV 3
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/sportv3.txt
+
+
